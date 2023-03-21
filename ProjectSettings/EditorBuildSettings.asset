@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PodcastScene.unity
     guid: f4bbd68cf84e7654c95146a7cafb15d3
+  - enabled: 1
+    path: Assets/Scenes/GameEndScene.unity
+    guid: 3f2dd283ed7b1a54d86776ee0f587970
   m_configObjects: {}
