@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RoomScene.unity
     guid: 81ea7edd2a7ecfe4ca224b3511c1ddbc
+  - enabled: 1
+    path: Assets/Scenes/PodcastScene.unity
+    guid: f4bbd68cf84e7654c95146a7cafb15d3
   m_configObjects: {}
