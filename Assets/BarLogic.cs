@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class BarController : MonoBehaviour
+public class BarLogic : MonoBehaviour
 {
     public TextMeshProUGUI valueText;
     public Slider slider;
@@ -16,6 +16,6 @@ public class BarController : MonoBehaviour
 
     public void UpdateBar(int change)
     {
-        slider.value += change;
+        slider.value = change;
     }
 }
