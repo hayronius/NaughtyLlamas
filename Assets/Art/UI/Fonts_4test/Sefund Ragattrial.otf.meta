@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 544e580549cbb7349af231b58e11992f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sefund Ragattrial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 127d414373abc924690a94f4b3cbb949, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
