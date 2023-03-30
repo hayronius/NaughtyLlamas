@@ -11,10 +11,12 @@ public class BarLogic : MonoBehaviour
     public Slider slider;
     public VariableReference var;
 
+    /*
     public void OnBarChanged(float value)
     {
         valueText.text = value.ToString();
     }
+    */
 
     public void UpdateBar(int change)
     {
