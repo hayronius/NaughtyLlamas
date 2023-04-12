@@ -14600,7 +14600,7 @@ GameObject:
   - component: {fileID: 657623076}
   - component: {fileID: 657623077}
   m_Layer: 0
-  m_Name: Host
+  m_Name: Podcaster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15475,8 +15475,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 935292085}
+  selectedCommands:
+  - {fileID: 935292084}
   variables: []
   description: 
   stepPause: 0
