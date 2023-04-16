@@ -536,7 +536,10 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 491fd0227c6b19944b9ed0bf44a34f57, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: Never having enough integrity and dedication to commit to anything,
+    or talent and confidence to simply wing it, Bethany spent her years quietly judging
+    others from the background. In exchange for a little influence, on your platform
+    she sees the opportunity to say whatever she wants on behalf of all women, everywhere.
 --- !u!1 &271018908
 GameObject:
   m_ObjectHideFlags: 0
@@ -596,7 +599,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
@@ -1091,7 +1094,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 133.45454
     y: 70.36364
-    width: 185.06483
+    width: 182.80008
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1225,11 +1228,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 114.60569, y: 52.752327}
+  scrollPos: {x: 128.2102, y: 52.35694}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.5500004
+  zoom: 0.99999946
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1238,8 +1241,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 325367960}
-  selectedCommands:
-  - {fileID: 325368074}
+  selectedCommands: []
   variables:
   - {fileID: 325367991}
   - {fileID: 325367990}
@@ -14184,7 +14186,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 63c0909c274db66498205aa821961828, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: Dedicating her youth to superficially reading Indological literature
+    and discussing it with cultist mystics, through the power of charm and a really
+    loud voice Dr. Feldman has succeeded to slip through the cracks of academia and
+    earn her name a most esteemed prefix. However, since then nobody took her seriously
+    anymore, until you came along.
 --- !u!1 &415940298
 GameObject:
   m_ObjectHideFlags: 0
@@ -14821,7 +14827,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 27b04dbe372abc942b29df67ad5fb293, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: Raised without any boundaries, Travis knew that he was destined for
+    great things when he hit his mom and got away with it. Currently spending his
+    days reminiscing of his glory days reminiscing of success at rhythm game leader
+    boards and shouting at his parents for money, this twentysomething prodigy has
+    egomaniacal wisdom to impart upon your viewers.
 --- !u!1 &585284004
 GameObject:
   m_ObjectHideFlags: 0
@@ -15001,7 +15011,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2d735e8d373ae4c4895f52fe1e797a10, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: Resonating with a few images he had seen on the internet, Hassan decided
+    to quit his retail job and enter as many pyramid schemes he could with hopes
+    of reaching it to the top. Developing a taste for expensive kitsch, he successfully
+    juggles crippling debt and sending threatening messages to women over social
+    networks.
 --- !u!1 &763967486
 GameObject:
   m_ObjectHideFlags: 0
@@ -15053,7 +15067,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 9a5d2d4527754dc459df4ae20edb56ec, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: Growing up in a gated community, Ray failed to grasp the political
+    message of his old school rap idols. His life, slowly filling his discography
+    with songs fetishizing excess wealth and misogyny, he came to believe that the
+    negative response to his artistic endeavours stems not from their lack of quality,
+    but rather from political oppression of the non-binary underground.
 --- !u!1 &813843166
 GameObject:
   m_ObjectHideFlags: 0
@@ -15113,12 +15131,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 5
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -15185,7 +15203,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 1310ff7ec03371c43a225d46a631f0f1, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: After a box of munitions fell on his leg during peacetime, Oleg recklessly
+    flaunted his war invalid status and got elected mayor in a village several hundred
+    kilometres from his hometown. Using every possible opportunity to attack sexual
+    minorities in mass media, for a large sum of influence you too can have this
+    pillar of civilization grace your studio.
 --- !u!1 &926659609
 GameObject:
   m_ObjectHideFlags: 0
@@ -15555,7 +15577,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 166.32362
     y: 532.79065
-    width: 74.844696
+    width: 75.88234
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15619,7 +15641,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -446.81003
     y: -219.57841
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15687,9 +15709,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -595.7095
-    y: -215.78094
-    width: 129.50302
+    x: -607.41174
+    y: -267.90863
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15758,7 +15780,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -741.10156
     y: -219.57841
-    width: 128.2608
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15783,11 +15805,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1036.3281, y: 376.9423}
+  scrollPos: {x: 1476.8385, y: 766.6617}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.46000046
+  zoom: 0.34000018
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -15795,9 +15817,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 935292201}
-  selectedCommands:
-  - {fileID: 935292200}
+  - {fileID: 935292083}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -15898,7 +15919,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -450.33932
     y: 153.9509
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15984,7 +16005,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -599.2388
     y: 157.74835
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16070,7 +16091,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -744.63086
     y: 153.9509
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16156,7 +16177,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -434.9548
     y: 73.40802
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16242,7 +16263,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -583.85425
     y: 77.20547
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16328,7 +16349,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -729.24634
     y: 73.40802
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16406,7 +16427,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1084.0049
     y: -55.664566
-    width: 136.95644
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16484,7 +16505,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 937.1467
     y: -51.86711
-    width: 136.95644
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16562,7 +16583,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 791.75494
     y: -55.664566
-    width: 135.7142
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16640,7 +16661,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1101.4303
     y: -136.20743
-    width: 135.7142
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16718,7 +16739,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 952.5311
     y: -132.40999
-    width: 135.7142
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16796,7 +16817,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 807.1394
     y: -136.20743
-    width: 134.47197
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16874,7 +16895,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1101.3397
     y: -226.25266
-    width: 136.95644
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16952,7 +16973,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 952.44055
     y: -222.45518
-    width: 136.95644
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17030,7 +17051,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 807.0488
     y: -226.25266
-    width: 135.7142
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17108,7 +17129,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 564.00323
     y: -49.21295
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17186,7 +17207,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 417.14523
     y: -45.415497
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17264,7 +17285,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 271.75345
     y: -49.21295
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17342,7 +17363,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 581.4287
     y: -129.75583
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17420,7 +17441,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 432.5297
     y: -125.95838
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17498,7 +17519,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 287.1379
     y: -129.75583
-    width: 135.7142
+    width: 137.05878
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17576,7 +17597,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 581.33813
     y: -219.80106
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17654,7 +17675,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 432.43912
     y: -216.00359
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17732,7 +17753,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 287.04733
     y: -219.80106
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17810,7 +17831,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 45.649902
     y: -47.172134
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17888,7 +17909,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -101.208206
     y: -43.37468
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17966,7 +17987,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -246.60071
     y: -47.172134
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18044,7 +18065,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 63.07524
     y: -127.71502
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18122,7 +18143,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -85.82362
     y: -123.91757
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18200,7 +18221,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -231.21625
     y: -127.71502
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18278,7 +18299,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 62.984665
     y: -217.76024
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18356,7 +18377,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -85.9142
     y: -213.96277
-    width: 130.74527
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18434,7 +18455,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -231.30682
     y: -217.76024
-    width: 129.50302
+    width: 129.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18518,7 +18539,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1058.408
     y: -211.01991
-    width: 153.1055
+    width: 153.52936
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18706,9 +18727,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -480.43185
-    y: -123.49565
-    width: 176.70795
+    x: -452.07376
+    y: -133.9434
+    width: 177.05875
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18789,7 +18810,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -581.6657
     y: -36.785076
-    width: 154.34772
+    width: 153.52936
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18848,7 +18869,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -696.35004
     y: -125.53647
-    width: 175.46571
+    width: 177.05875
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18993,7 +19014,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1064.9385
     y: -127.346405
-    width: 172.98125
+    width: 172.35287
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19139,12 +19160,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 5
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -19189,7 +19210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 325367961}
+  selectedFlowchart: {fileID: 935292086}
 --- !u!4 &1096910280
 Transform:
   m_ObjectHideFlags: 1
@@ -19256,7 +19277,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ca75c772a95cb224d8f59a1fa2288f63, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: "Meeting Rafaello on your previous profession, you could not help
+    but notice how he pushed progressive ideas forward whenever there seemed to be
+    something to gain from it. Unfortunately, not achieving the grandeur he hoped
+    for, you firmly believe that he will hang his old Che Guevara t-shirt for just
+    a little influence\u2026"
 --- !u!1 &1204973903
 GameObject:
   m_ObjectHideFlags: 0
@@ -19434,12 +19459,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 5
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -19573,7 +19598,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
@@ -19645,7 +19670,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: a86d18f93dac8f649b0c37cd48ec38d5, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: "Well, the day finally happened, old Hutch\u2019s brittle bones caved
+    in and he cannot perform his God given duty of imprinting boys and girls with
+    a lifelong hatred of demanding physical movement. A firm believer in the power
+    of might, your platform might be just what Hutch needs to project his worldviews
+    unto others."
 --- !u!1 &1476712974
 GameObject:
   m_ObjectHideFlags: 0
@@ -19697,7 +19726,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 8e848a267719f384ba1b4fb25627fb48, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
-  description: 
+  description: Raised without any boundaries, Travis knew that he was destined for
+    great things when he hit his mom and got away with it. Currently spending his
+    days reminiscing of his glory days reminiscing of success at rhythm game leader
+    boards and shouting at his parents for money, this twentysomething prodigy has
+    egomaniacal wisdom to impart upon your viewers.
 --- !u!1 &1501413437
 GameObject:
   m_ObjectHideFlags: 0
@@ -20003,12 +20036,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 5
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -20226,12 +20259,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 5
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -20902,12 +20935,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 5
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -21238,7 +21271,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
     m_FontSize: 45
     m_FontStyle: 0
     m_BestFit: 0

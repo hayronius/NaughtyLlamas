@@ -251,8 +251,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: This is the end of the game
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1edfbcd63e9a7fb489c79d5be40bdc46, type: 2}
-  m_sharedMaterial: {fileID: 5969729387630404570, guid: 1edfbcd63e9a7fb489c79d5be40bdc46, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7062da1c65a33074e882e6dcd4dd17e6, type: 2}
+  m_sharedMaterial: {fileID: -3301946262841513276, guid: 7062da1c65a33074e882e6dcd4dd17e6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

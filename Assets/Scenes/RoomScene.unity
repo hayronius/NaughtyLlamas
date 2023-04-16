@@ -574,8 +574,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.27, y: 1.97}
-    newSize: {x: 1, y: 1}
+    oldSize: {x: 2.5, y: 2.5}
+    newSize: {x: 2.5, y: 2.5}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -629,7 +629,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.5, y: 2.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -793,12 +793,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -1003,7 +1003,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
@@ -1111,7 +1111,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 141
     y: 67
-    width: 121.04238
+    width: 116.93871
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1146,11 +1146,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 124.13159, y: 82.49252}
+  scrollPos: {x: 291.1671, y: 222.03098}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.37000045
+  zoom: 0.49000046
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -3405,12 +3405,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -3485,12 +3485,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -4597,7 +4597,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1339919604
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4761,7 +4761,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
     m_FontSize: 45
     m_FontStyle: 0
     m_BestFit: 0
@@ -4841,12 +4841,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -5151,7 +5151,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
@@ -5352,8 +5352,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.27, y: 1.97}
-    newSize: {x: 1, y: 1}
+    oldSize: {x: 2.5, y: 2.5}
+    newSize: {x: 2.5, y: 2.5}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -5407,7 +5407,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.5, y: 2.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5487,12 +5487,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -5701,12 +5701,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: f8de62242ca105340892be18e6570073, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 30
-    m_MaxSize: 40
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -6480,7 +6480,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 92.80643
     y: 72.150536
-    width: 80.129875
+    width: 78.571434
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6511,19 +6511,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 64.29543, y: 259.7841}
+  scrollPos: {x: -220.40678, y: 57.901054}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 266.7143
-  zoom: 0.54999995
+  zoom: 0.69999987
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 2111010973}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 2111010983}
@@ -7334,7 +7333,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 66.61911
     y: 202.21422
-    width: 138.3117
+    width: 133.42859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7389,7 +7388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  text: Topic 3
+  text: Waste microplastics theory
   description: 
   targetBlock: {fileID: 2111010978}
   hideIfVisited: 0
@@ -7414,7 +7413,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  text: Topic 2
+  text: The ninja male
   description: 
   targetBlock: {fileID: 2111010981}
   hideIfVisited: 0
@@ -7591,7 +7590,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  storyText: You have chosen Topic 3.
+  storyText: Idiots, weaklings, whiny little babies. Wallowing in despair about their
+    precious rain becoming chemicals, their pitiful rodent subspecies going extinct,
+    tumours growing on their necks! The only way one should survive is not by running
+    away, but by divine intervention! It is your godly right to discard all notions
+    of shame, decency, common good and self-preservation. Only by being chosen and
+    touched by divinity among the festering corpses of the old world will you be
+    able to ascend above mere man. Eat them hamburger wrappers, breathe the air from
+    the exhaust pipe, impale needles upon your flesh instead of sleeping and certainly,
+    your body will handle it just fine.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7620,7 +7627,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 195.35355
     y: 135.49539
-    width: 94.67532
+    width: 93.42858
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7803,7 +7810,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: You have chosen Topic 2.
+  storyText: "Some ancient master of far eastern origin definitely said something
+    along the lines of \u201Cto be unseen, blend in with the crowd, then strike the
+    enemy and so on\u2026\u201D. Drawing on your twisted childhood memories of American
+    kung fu movies and your burning desire to characterize your average life as extraordinary,
+    you became the true ninja that hides among the sheep. Use as much apps as possible,
+    only shop in big supermarket chains, wear branded clothing, listen to autotuned
+    pop! Forget those nerdy books, those brutish sports, those corny romances, those
+    pretentious paintings, that natural food \u2013 tasteless! Become the superhero
+    conformist you dream of, shed light on yourself as a customer!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7831,8 +7846,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 85.92947
-    y: 135.49539
-    width: 93.63637
+    y: 134.06682
+    width: 92.28572
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8068,7 +8083,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -16.69349
     y: 137.64594
-    width: 92.597404
+    width: 91.14287
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8180,7 +8195,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1196053629}
-  sprite: {fileID: 21300000, guid: de10509895307af4398166467a5af323, type: 3}
+  sprite: {fileID: 21300000, guid: ced933770e98e4c44841d2b970459346, type: 3}
 --- !u!114 &2111011002
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -8197,7 +8212,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 527740205}
-  sprite: {fileID: 21300000, guid: de10509895307af4398166467a5af323, type: 3}
+  sprite: {fileID: 21300000, guid: 6a0e0dc901f6dde4cb9c5a40abdc144e, type: 3}
 --- !u!114 &2111011003
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -8214,7 +8229,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1120559201}
-  sprite: {fileID: 21300000, guid: de9e4a3b4faa1df4a9418221c82fd547, type: 3}
+  sprite: {fileID: 21300000, guid: 0e967be79438d7846b2e41385a9d4869, type: 3}
 --- !u!114 &2111011004
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -8265,7 +8280,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1120559201}
-  sprite: {fileID: 21300000, guid: c1af6344bb212f2499dd586080d55c67, type: 3}
+  sprite: {fileID: 21300000, guid: c537c2caeb1c7d54ab7a7dc26dee46db, type: 3}
 --- !u!114 &2111011007
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -8282,7 +8297,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1196053629}
-  sprite: {fileID: 21300000, guid: 0c10bd732ce237f4282f9dc5cf1b4f6c, type: 3}
+  sprite: {fileID: 21300000, guid: c537c2caeb1c7d54ab7a7dc26dee46db, type: 3}
 --- !u!114 &2111011008
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -8299,7 +8314,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 527740205}
-  sprite: {fileID: 21300000, guid: c1af6344bb212f2499dd586080d55c67, type: 3}
+  sprite: {fileID: 21300000, guid: 9fdba0698cc5b9b49b75389a3adf3fe2, type: 3}
 --- !u!114 &2111011009
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -8316,7 +8331,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1120559201}
-  sprite: {fileID: 21300000, guid: 0e967be79438d7846b2e41385a9d4869, type: 3}
+  sprite: {fileID: 21300000, guid: de10509895307af4398166467a5af323, type: 3}
 --- !u!114 &2111011020
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9093,7 +9108,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 481.3952
     y: 367.6973
-    width: 135.19481
+    width: 131.14288
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9155,7 +9170,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 782.88983
     y: 365.3984
-    width: 137.27274
+    width: 133.42859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9217,7 +9232,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 635.3036
     y: 367.69727
-    width: 136.23376
+    width: 132.28574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9298,7 +9313,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 992.4507
     y: 493.4112
-    width: 168.44156
+    width: 160.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10042,7 +10057,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1196053629}
-  sprite: {fileID: 21300000, guid: de10509895307af4398166467a5af323, type: 3}
+  sprite: {fileID: 21300000, guid: c537c2caeb1c7d54ab7a7dc26dee46db, type: 3}
 --- !u!114 &2111011119
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10059,7 +10074,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 527740205}
-  sprite: {fileID: 21300000, guid: c1af6344bb212f2499dd586080d55c67, type: 3}
+  sprite: {fileID: 21300000, guid: de10509895307af4398166467a5af323, type: 3}
 --- !u!114 &2111011120
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10076,7 +10091,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1120559201}
-  sprite: {fileID: 21300000, guid: de9e4a3b4faa1df4a9418221c82fd547, type: 3}
+  sprite: {fileID: 21300000, guid: 6a0e0dc901f6dde4cb9c5a40abdc144e, type: 3}
 --- !u!114 &2111011121
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10350,7 +10365,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1196053629}
-  sprite: {fileID: 21300000, guid: c1af6344bb212f2499dd586080d55c67, type: 3}
+  sprite: {fileID: 21300000, guid: 9fdba0698cc5b9b49b75389a3adf3fe2, type: 3}
 --- !u!114 &2111011124
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10367,7 +10382,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 527740205}
-  sprite: {fileID: 21300000, guid: de9e4a3b4faa1df4a9418221c82fd547, type: 3}
+  sprite: {fileID: 21300000, guid: ced933770e98e4c44841d2b970459346, type: 3}
 --- !u!114 &2111011125
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10384,7 +10399,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1120559201}
-  sprite: {fileID: 21300000, guid: 0e967be79438d7846b2e41385a9d4869, type: 3}
+  sprite: {fileID: 21300000, guid: c1af6344bb212f2499dd586080d55c67, type: 3}
 --- !u!114 &2111011126
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10658,7 +10673,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1196053629}
-  sprite: {fileID: 21300000, guid: 9fdba0698cc5b9b49b75389a3adf3fe2, type: 3}
+  sprite: {fileID: 21300000, guid: 0e967be79438d7846b2e41385a9d4869, type: 3}
 --- !u!114 &2111011129
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10675,7 +10690,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 527740205}
-  sprite: {fileID: 21300000, guid: 0c10bd732ce237f4282f9dc5cf1b4f6c, type: 3}
+  sprite: {fileID: 21300000, guid: de9e4a3b4faa1df4a9418221c82fd547, type: 3}
 --- !u!114 &2111011130
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10692,7 +10707,7 @@ MonoBehaviour:
   indentLevel: 1
   spriteRenderers:
   - {fileID: 1120559201}
-  sprite: {fileID: 21300000, guid: de10509895307af4398166467a5af323, type: 3}
+  sprite: {fileID: 21300000, guid: 0c10bd732ce237f4282f9dc5cf1b4f6c, type: 3}
 --- !u!114 &2111011131
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10979,7 +10994,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 433.12527
     y: 196.82529
-    width: 139.35065
+    width: 134.57144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11186,7 +11201,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 140
   indentLevel: 0
-  storyText: You have chosen Topic 6
+  storyText: "What if\u2026 and bear with me, most people don\u2019t have complex
+    thoughts, dreams and futures, but are only running on a genetically preprogramed
+    loop that inevitably results in society as we see it today. Some pathetic worm
+    had to lay out all those roads you see, pick up your trash and clean your shit.
+    A handful psychology articles scattered around the globe fit together perfectly,
+    and your understanding of this \u201Coh so horrible\u201D fundamental truth of
+    existence beholds you in creating a new world order in which there is the victor
+    and the worker, and the worker is nothing more than a mindless drone that must
+    prove his worth in order to be allowed to grow old and die."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11213,9 +11236,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 553.3639
-    y: 138.81424
-    width: 93.63637
+    x: 561.9354
+    y: 135.95709
+    width: 92.28572
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11397,7 +11420,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 0
-  storyText: You have chosen Topic 5
+  storyText: You remember that fated day when you were the odd man out in your elementary
+    school class, neither bully nor bullied, not a jacked up dodgeballer, not a model
+    jumping rope, just sitting in the corner eating your boogers while the world
+    revolved around you. The inactive man notices things, illusions that people try
+    to project about themselves, constructs they self-absorb to make themselves feel
+    better, and the pitiful moment when it all comes crashing down. Your action is
+    refusal of any action, your mantra is whatever, the most beautiful thing is sitting
+    covered in hot chip dust on your couch, thinking of everything you could achieve,
+    and by doing that achieving it all in that moment, as long as the illusion persists.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11426,7 +11457,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 449.26273
     y: 137.1749
-    width: 93.63637
+    width: 92.28572
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11608,7 +11639,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 132
   indentLevel: 0
-  storyText: You have chosen Topic 4.
+  storyText: "Look at those dirty and downtrodden societies desperately pushing forth
+    the idea of the common good, only to have their puny members bound by social
+    contracts unable to ask for extra hot sauce and spank passing ass. You have seen
+    true greatness in misplaced quotes from ancient philosophers and generals, dictators
+    with gold toilets, criminals that mashes their opponents into minced meat. True
+    order and civilizational progress can only come from a small minority endlessly
+    exploiting the weak majority, if you shout loud enough \u201CSkin the fuckers
+    for all they are worth!\u201D, maybe you too will breed a new sort of ruthless
+    top dog that will dominate with you as head of the pack."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11637,7 +11676,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 345.16245
     y: 135.53555
-    width: 94.67532
+    width: 93.42858
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11667,7 +11706,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 130
   indentLevel: 0
-  text: Topic 6
+  text: NPC workers
   description: 
   targetBlock: {fileID: 2111011142}
   hideIfVisited: 0
@@ -11692,7 +11731,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 129
   indentLevel: 0
-  text: Topic 5
+  text: The blind wombat
   description: 
   targetBlock: {fileID: 2111011145}
   hideIfVisited: 0
@@ -11717,7 +11756,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 128
   indentLevel: 0
-  text: Topic 4
+  text: Theft is justified
   description: 
   targetBlock: {fileID: 2111011149}
   hideIfVisited: 0
@@ -11771,7 +11810,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 451.14944
     y: 68.40076
-    width: 81.16884
+    width: 79.714294
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16732,7 +16771,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 404
   indentLevel: 0
-  storyText: Information about Travis
+  storyText: Travis, uncultured brat
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -16911,7 +16950,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 402
   indentLevel: 0
-  storyText: Information about Ray
+  storyText: Ray, family inheritance rapper
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17090,7 +17129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 400
   indentLevel: 0
-  storyText: Information about Oleg
+  storyText: Oleg, fascist war vet
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17269,7 +17308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 398
   indentLevel: 0
-  storyText: Information about Hutch
+  storyText: Hutch, your old gym teacher
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17448,7 +17487,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 386
   indentLevel: 0
-  storyText: Information about Hassan
+  storyText: Hassan, self-proclaimed millionaire
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17648,7 +17687,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 383
   indentLevel: 0
-  storyText: Information about Bethany
+  storyText: "Bethany, your ex-wife\u2019s sixth best friend"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17829,7 +17868,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 774.3186
     y: 655.35754
-    width: 131.03897
+    width: 126.57144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17857,7 +17896,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 628.3923
     y: 658.32056
-    width: 117.53247
+    width: 114.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17883,9 +17922,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 479.50336
-    y: 658.32056
-    width: 122.72728
+    x: 477.94086
+    y: 656.75806
+    width: 119.7143
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17911,9 +17950,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 795.7993
+    x: 794.2368
     y: 587.20917
-    width: 131.03897
+    width: 126.57144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17940,8 +17979,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 640.98376
-    y: 587.20917
-    width: 138.3117
+    y: 585.64667
+    width: 133.42859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17969,7 +18008,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 468.3913
     y: 589.2294
-    width: 142.46753
+    width: 136.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18024,7 +18063,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1106.4167
     y: 203.66898
-    width: 140.38962
+    width: 135.7143
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18231,7 +18270,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 319
   indentLevel: 0
-  storyText: You have chosen Topic 12
+  storyText: 'Realistically, for us all, it could not have ended better than it did.
+    You could have always trained yourself, there are plenty of fine gyms around
+    with the most pleasant pop tunes caressing your ears. You could have chosen to
+    invest in stocks, work in currently favourable disciplines as much as you were
+    bodily able, while improving yourself tirelessly to keep up with current trends
+    and old age. With hard work for body and wallet, you could have made yourself
+    a desirable mate for dozens that would have liked you as you are, free to have
+    children and continue the cycle. With all of those obstacles out of the way,
+    maybe you could have found the time to live a little. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18260,7 +18307,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1228.9532
     y: 143.35957
-    width: 99.87013
+    width: 98.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18442,7 +18489,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 315
   indentLevel: 0
-  storyText: You have chosen Topic 11
+  storyText: "Finally, you see what a hypocrite you have been all along. Contacting
+    individuals on your show was not a boon, but a necessity in showing a greater
+    evil \u2013 direct communication with other individuals. Nobody has comforted
+    you like your audience, silently gazing through a screen, and deep down you know
+    that they are just as unsatisfied with their lives and filled with hate as you
+    are. And why should you change that and go against your better judgement? Keep
+    them in their rooms, stuffed with content and sedated with positive feedback.
+    The outside world has long ago turned its back on your kind, and only through
+    ignorance will your flock be free of the horrible fate awaiting us all."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18471,7 +18526,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1122.5541
     y: 144.01907
-    width: 98.83118
+    width: 96.85715
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18653,7 +18708,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 311
   indentLevel: 0
-  storyText: You have chosen Topic 10
+  storyText: Have you heard the pledges? You ask the unwashed hordes, but your voice
+    is only echoed in an empty room. Paying a hamburger delivered to your door by
+    a drone in rates, and paying a subscription fee to rent a movie whose LED billboard
+    has been shining a light through your bedroom for the past few months, you are
+    truly happy to be alive in this world. What would you be without such giants
+    inventing unprecedented necessities for the human race? What is slow reform when
+    compared to a swift charity? What is a policy enacted when compared to an unregulated
+    economic decision impacting the entire globe? You have seen the world spirit,
+    and he wants to fill your soda cup.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -18680,9 +18743,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1018.4535
+    x: 1015.5964
     y: 142.37976
-    width: 100.909096
+    width: 98.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18712,7 +18775,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 309
   indentLevel: 0
-  text: Topic 12
+  text: Capitalism is the apex of human society
   description: 
   targetBlock: {fileID: 2111011258}
   hideIfVisited: 0
@@ -18737,7 +18800,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 308
   indentLevel: 0
-  text: Topic 11
+  text: Humans were meant to live in isolated cells
   description: 
   targetBlock: {fileID: 2111011262}
   hideIfVisited: 0
@@ -18762,7 +18825,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 307
   indentLevel: 0
-  text: Topic 10
+  text: Billionaires are saving the world
   description: 
   targetBlock: {fileID: 2111011266}
   hideIfVisited: 0
@@ -18816,7 +18879,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1126.3639
     y: 75.244865
-    width: 82.207794
+    width: 80.85715
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19800,7 +19863,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 771.2145
     y: 203.37361
-    width: 140.38962
+    width: 135.7143
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20007,7 +20070,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 270
   indentLevel: 0
-  storyText: You have chosen Topic 9
+  storyText: "Aren\u2019t you sick of the vomit inducing skin being flaunted at you
+    in quiz shows for the elderly, bakery queues and toothpaste ads? Did you ever
+    stop and wonder that the feelings incited within you are not merely a by-product
+    of unrestricted animalistic desire but rather, a carefully convoluted charm being
+    passed onto generations of women from the darkness of torture dungeons from the
+    middle ages?  So called experts have dedicated decades to unsuccessfully try
+    and utilize humanities to solve complex issues of human attraction, completely
+    forgetting about the existence of the supernatural! Light the pyres onto a conspiracy
+    that envelops men since time immemorial!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -20036,7 +20107,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 891.4526
     y: 145.36266
-    width: 93.63637
+    width: 92.28572
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20218,7 +20289,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 266
   indentLevel: 0
-  storyText: You have chosen Topic 8
+  storyText: "The sexual marketplace\u2026 An embarrassing heap of those that have
+    dared to stray far away from the creator\u2019s grasp, perfecting their lying
+    masks within anxiety-inducing, irrelevant places such as bars, concert halls,
+    parks and so forth. A stain on the perfect image of man as well as the economy,
+    these embarrassing specimen of human misery pollute our lives with their endless
+    social chattering, perfumes, and apish courtship gestures, while they miss the
+    main point\u2026 spreading one\u2019s seed as far and wide as humanly possible!
+    Be the Genghis Khan you were meant to be, lie on your sperm donor card \u2013
+    be an astronaut, an athlete, a father!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -20247,7 +20326,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 787.35187
     y: 143.72331
-    width: 93.63637
+    width: 92.28572
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20429,7 +20508,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 262
   indentLevel: 0
-  storyText: You have chosen Topic 7
+  storyText: "The sight of an unbruised female body repulses you, disobedient wenches
+    who do not adhere to your standards of beauty make you cough up the bagel. Little
+    do they know that modern society was built from ancient society which did not
+    regard man as drooling monkey, but man as victorious crab. Behold the horseshoe
+    crab, staying the same for several millennia, fucking in piles! You can imagine
+    yourself atop such a pile, impregnating a bunch of crabs under your feet, pissing
+    on the skulls of less worthy men. The thought makes your head throb with delight,
+    if only you had it before your divorce, you could\u2019ve easily shown your ex-wife
+    the true natural order, willingly or not."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -20458,7 +20545,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 681.62524
     y: 142.08397
-    width: 93.63637
+    width: 92.28572
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20488,7 +20575,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 260
   indentLevel: 0
-  text: Topic 9
+  text: Witchcraft exists
   description: 
   targetBlock: {fileID: 2111011300}
   hideIfVisited: 0
@@ -20513,7 +20600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 259
   indentLevel: 0
-  text: Topic 8
+  text: The Shadow Impregnator
   description: 
   targetBlock: {fileID: 2111011303}
   hideIfVisited: 0
@@ -20538,7 +20625,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 258
   indentLevel: 0
-  text: Topic 7
+  text: Horseshoe crab orgy
   description: 
   targetBlock: {fileID: 2111011307}
   hideIfVisited: 0
@@ -20592,7 +20679,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 791.1617
     y: 74.94957
-    width: 82.207794
+    width: 80.85715
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26461,7 +26548,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 579.0171
     y: -71.262405
-    width: 108.18182
+    width: 104.857155
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -29357,7 +29444,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 463.83344
     y: 280.60413
-    width: 166.36365
+    width: 160.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31509,7 +31596,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 644.2984
     y: 278.27853
-    width: 167.40262
+    width: 160.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35133,7 +35220,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 756
   indentLevel: 0
-  storyText: Information about Rafaello
+  storyText: Rafaello, embittered ex-activist
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -35314,7 +35401,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 790.84033
     y: 731.444
-    width: 139.35065
+    width: 134.57144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35340,7 +35427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 753
   indentLevel: 0
-  storyText: Information about DrFeldman
+  storyText: Dr. Feldman, psycho-astrologist
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -35521,7 +35608,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 616.49225
     y: 737.96564
-    width: 154.93507
+    width: 149.42859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35547,7 +35634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 750
   indentLevel: 0
-  storyText: Information about Cory
+  storyText: Cory, jolly bootlicker
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -35728,7 +35815,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 483.44937
     y: 740.1395
-    width: 119.6104
+    width: 115.14287
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -35742,7 +35829,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &2111011532
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -35764,7 +35851,7 @@ MonoBehaviour:
   resumeOnLoad: 1
 --- !u!114 &2111011533
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -35786,7 +35873,7 @@ MonoBehaviour:
   resumeOnLoad: 1
 --- !u!114 &2111011534
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -35808,7 +35895,7 @@ MonoBehaviour:
   resumeOnLoad: 1
 --- !u!114 &2111011535
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -35879,8 +35966,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.27, y: 1.97}
-    newSize: {x: 1, y: 1}
+    oldSize: {x: 2.5, y: 2.5}
+    newSize: {x: 2.5, y: 2.5}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -35934,7 +36021,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.5, y: 2.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
