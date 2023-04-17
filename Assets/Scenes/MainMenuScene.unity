@@ -478,6 +478,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeNode
       objectReference: {fileID: 0}
+    - target: {fileID: 7058520334590464914, guid: d0cb539e4c374f847a25d4935bb42f03, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 38d3f046e917ac145a183fd4621dc3d3, type: 3}
+    - target: {fileID: 7058520334590464915, guid: d0cb539e4c374f847a25d4935bb42f03, type: 3}
+      propertyPath: saveImage
+      value: 
+      objectReference: {fileID: 21300000, guid: 38d3f046e917ac145a183fd4621dc3d3, type: 3}
     - target: {fileID: 7058520334590464915, guid: d0cb539e4c374f847a25d4935bb42f03, type: 3}
       propertyPath: saveScript
       value: 
@@ -890,6 +898,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 377322284}
     m_Modifications:
+    - target: {fileID: 8324545001807315064, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 957876a3ab6d39440bdd08848920ce57, type: 3}
     - target: {fileID: 8324545001807315065, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
       propertyPath: saveKey
       value: 1 Choice C
@@ -1422,6 +1434,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 377322284}
     m_Modifications:
+    - target: {fileID: 8324545001807315064, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 957876a3ab6d39440bdd08848920ce57, type: 3}
     - target: {fileID: 8324545001807315065, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
       propertyPath: saveKey
       value: 1 Choice A
@@ -1747,6 +1763,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 377322284}
     m_Modifications:
+    - target: {fileID: 8324545001807315064, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 957876a3ab6d39440bdd08848920ce57, type: 3}
     - target: {fileID: 8324545001807315065, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
       propertyPath: saveKey
       value: 1 Choice D
@@ -2139,6 +2159,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 377322284}
     m_Modifications:
+    - target: {fileID: 8324545001807315064, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 957876a3ab6d39440bdd08848920ce57, type: 3}
     - target: {fileID: 8324545001807315065, guid: 7af21f65b32bdfa409bbec0f9da2ce98, type: 3}
       propertyPath: saveKey
       value: 1 Choice B
@@ -2895,7 +2919,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 891855059401709594, guid: fb6b88a38d275704dbc1e305ba372bca, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 940.1905
+      value: 959.08563
       objectReference: {fileID: 0}
     - target: {fileID: 891855059401709594, guid: fb6b88a38d275704dbc1e305ba372bca, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -3095,7 +3119,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 891855061022131144, guid: fb6b88a38d275704dbc1e305ba372bca, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 918.1905
+      value: 937.08563
       objectReference: {fileID: 0}
     - target: {fileID: 891855061126768308, guid: fb6b88a38d275704dbc1e305ba372bca, type: 3}
       propertyPath: m_AnchorMax.y

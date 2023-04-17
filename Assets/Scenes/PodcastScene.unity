@@ -1094,7 +1094,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 133.45454
     y: 70.36364
-    width: 182.80008
+    width: 181.42854
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1228,11 +1228,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 128.2102, y: 52.35694}
+  scrollPos: {x: 367.04086, y: 158.12317}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.99999946
+  zoom: 0.70000017
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -15369,8 +15369,6 @@ GameObject:
   - component: {fileID: 935292080}
   - component: {fileID: 935292079}
   - component: {fileID: 935292078}
-  - component: {fileID: 935292077}
-  - component: {fileID: 935292075}
   - component: {fileID: 935292105}
   - component: {fileID: 935292104}
   - component: {fileID: 935292103}
@@ -15493,6 +15491,28 @@ GameObject:
   - component: {fileID: 935292208}
   - component: {fileID: 935292207}
   - component: {fileID: 935292206}
+  - component: {fileID: 935292220}
+  - component: {fileID: 935292215}
+  - component: {fileID: 935292210}
+  - component: {fileID: 935292216}
+  - component: {fileID: 935292211}
+  - component: {fileID: 935292219}
+  - component: {fileID: 935292218}
+  - component: {fileID: 935292217}
+  - component: {fileID: 935292214}
+  - component: {fileID: 935292213}
+  - component: {fileID: 935292212}
+  - component: {fileID: 935292231}
+  - component: {fileID: 935292226}
+  - component: {fileID: 935292225}
+  - component: {fileID: 935292221}
+  - component: {fileID: 935292224}
+  - component: {fileID: 935292223}
+  - component: {fileID: 935292222}
+  - component: {fileID: 935292227}
+  - component: {fileID: 935292230}
+  - component: {fileID: 935292229}
+  - component: {fileID: 935292228}
   m_Layer: 0
   m_Name: Conversations
   m_TagString: Untagged
@@ -15500,48 +15520,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &935292075
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 935292074}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 10
-  indentLevel: 0
-  targetFlowchart: {fileID: 0}
-  targetBlock: {fileID: 935292079}
-  startLabel:
-    stringRef: {fileID: 0}
-    stringVal: 
-  startIndex: 0
-  callMode: 0
---- !u!114 &935292077
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 935292074}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 8
-  indentLevel: 0
-  targetFlowchart: {fileID: 0}
-  targetBlock: {fileID: 935292079}
-  startLabel:
-    stringRef: {fileID: 0}
-    stringVal: 
-  startIndex: 0
-  callMode: 0
 --- !u!114 &935292078
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -15577,7 +15555,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 166.32362
     y: 532.79065
-    width: 75.88234
+    width: 75.14287
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15604,15 +15582,22 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: 'Host Normal left: Welcome to the podcast Hutch!
-
-      Hutch Normal
-      right: Thank you.
-
-
-      Hutch hide:
-
-      Host hide:'
+    stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
+      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
+      And our very first special guest is\u2026\r\n\r\nPodcaster: Hutch, a testament
+      to prevalence of man over time!\r\nHutch Normal Right: You were always a disappointment.\r\nPodcaster:
+      And today\u2019s topic concerns us all \u2013 training, health and exercise!\r\nPodcaster:
+      Have you unsuccessfully tried to get yourself in shape?\r\nPodcaster: Maybe
+      you have only tried methods in civilized environments?\r\nPodcaster: What you
+      need is to remove your civilizational shackles.\r\nPodcaster: Engage in hooligan
+      activities, catcalling parkour, a manly diet!\r\nPodcaster: Become one of the
+      people who \u201Coppressed\u201D, \u201Cmugged\u201D, \u201Cdisturbed\u201D
+      you.\r\nPodcaster: Those are all weak words of the old you!\r\nPodcaster: Change
+      thy perspective! Do you want to be such a loser all your life?\r\nPodcaster:
+      Go out wrecking shit, and soon enough you will notice your physique and general
+      mental wellbeing improve.\r\nHutch: Remember \u2013 beat up the degenerates!\r\nPodcaster:
+      Who exactly are the degenerates?\r\nHutch: Wimp ass football sissies such as
+      yourself.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -15639,19 +15624,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -446.81003
-    y: -219.57841
-    width: 129.99997
+    x: -184.44754
+    y: -333.31445
+    width: 111.7143
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 12
-  blockName: Topic1Guest3
-  description: 
+  blockName: D1T1Hutch
+  description: Day 1 Topic 1 Guest 3
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 935292231}
   - {fileID: 935292080}
-  - {fileID: 935292075}
+  - {fileID: 935292226}
+  - {fileID: 935292225}
   suppressAllAutoSelections: 0
 --- !u!114 &935292082
 MonoBehaviour:
@@ -15709,15 +15696,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -607.41174
-    y: -267.90863
-    width: 129.99997
+    x: -548.8405
+    y: -320.7658
+    width: 119.7143
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 11
-  blockName: Topic1Guest2
-  description: 
+  blockName: D1T1Hassan
+  description: Day 1 Topic 1 Guest 2
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 935292189}
@@ -15743,15 +15730,22 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: 'Host Normal left: Welcome to the podcast Bethany!
-
-      Bethany
-      Normal right: Thank you.
-
-
-      Bethany hide:
-
-      Host hide:'
+    stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
+      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
+      And our very first special guest is\u2026\r\n\r\nPodcaster: Oleg, a renowned
+      warrior and fighter for human rights!\r\nOleg Normal Right: We do not respect
+      our forefathers anymore!\r\nPodcaster: And today\u2019s topic concerns us all
+      \u2013 training, health and exercise!\r\nPodcaster: Have you unsuccessfully
+      tried to get yourself in shape?\r\nPodcaster: Maybe you have only tried methods
+      in civilized environments?\r\nPodcaster: What you need is to remove your civilizational
+      shackles.\r\nPodcaster: Engage in hooligan activities, catcalling parkour,
+      a manly diet!\r\nPodcaster: Become one of the people who \u201Coppressed\u201D,
+      \u201Cmugged\u201D, \u201Cdisturbed\u201D you.\r\nPodcaster: Those are all
+      weak words of the old you!\r\nPodcaster: Change thy perspective! Do you want
+      to be such a loser all your life?\r\nPodcaster: Go out wrecking shit, and soon
+      enough you will notice your physique and general mental wellbeing improve.\r\nOleg:
+      But remember \u2013 no touching state property.\r\nOleg: How do you feel about
+      touching state property, microphone man?"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -15778,19 +15772,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -741.10156
-    y: -219.57841
-    width: 129.99997
+    x: -835.38763
+    y: -316.72125
+    width: 104.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 0
-  blockName: Topic1Guest1
-  description: 
+  blockName: D1T1Oleg
+  description: Day 1 Topic 1 Guest 1
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 935292220}
   - {fileID: 935292084}
-  - {fileID: 935292077}
+  - {fileID: 935292215}
+  - {fileID: 935292210}
   suppressAllAutoSelections: 0
 --- !u!114 &935292086
 MonoBehaviour:
@@ -15805,22 +15801,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1476.8385, y: 766.6617}
+  scrollPos: {x: 1097.1705, y: 430.4538}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.34000018
+  zoom: 0.6999998
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 935292083}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
-  description: 
+  description: Bet
   stepPause: 0
   colorCommands: 1
   hideComponents: 1
@@ -15919,13 +15914,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: -450.33932
     y: 153.9509
-    width: 129.99997
+    width: 130.00003
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 36
   blockName: Topic3Guest3
-  description: 
+  description: 'Rafaello
+
+'
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 935292089}
@@ -16005,13 +16002,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: -599.2388
     y: 157.74835
-    width: 129.99997
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 35
   blockName: Topic3Guest2
-  description: 
+  description: Dr Feldman
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 935292092}
@@ -16091,13 +16088,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: -744.63086
     y: 153.9509
-    width: 129.99997
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 34
   blockName: Topic3Guest1
-  description: 
+  description: Ray
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 935292095}
@@ -16177,13 +16174,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: -434.9548
     y: 73.40802
-    width: 129.99997
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 33
   blockName: Topic2Guest3
-  description: 
+  description: Hutch
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 935292098}
@@ -16263,13 +16260,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: -583.85425
     y: 77.20547
-    width: 129.99997
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 32
   blockName: Topic2Guest2
-  description: 
+  description: Travis
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 935292101}
@@ -16349,13 +16346,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: -729.24634
     y: 73.40802
-    width: 129.99997
+    width: 126.57145
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 31
   blockName: Topic2Guest1
-  description: 
+  description: Bethany
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 935292104}
@@ -16425,9 +16422,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1084.0049
-    y: -55.664566
-    width: 137.05878
+    x: 1580.4319
+    y: -27.093155
+    width: 134.57144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16503,9 +16500,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 937.1467
-    y: -51.86711
-    width: 137.05878
+    x: 1433.5737
+    y: -23.2957
+    width: 133.42859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16581,9 +16578,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 791.75494
-    y: -55.664566
-    width: 137.05878
+    x: 1288.1818
+    y: -27.093155
+    width: 132.28574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16659,9 +16656,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1101.4303
-    y: -136.20743
-    width: 137.05878
+    x: 1597.8573
+    y: -107.63602
+    width: 133.42859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16737,9 +16734,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 952.5311
-    y: -132.40999
-    width: 137.05878
+    x: 1448.9581
+    y: -103.83858
+    width: 132.28574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16815,9 +16812,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 807.1394
-    y: -136.20743
-    width: 137.05878
+    x: 1303.5663
+    y: -107.63602
+    width: 131.14288
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16893,9 +16890,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1101.3397
-    y: -226.25266
-    width: 137.05878
+    x: 1597.7667
+    y: -197.68124
+    width: 134.57144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16971,9 +16968,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 952.44055
-    y: -222.45518
-    width: 137.05878
+    x: 1448.8676
+    y: -193.88377
+    width: 133.42859
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17049,9 +17046,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 807.0488
-    y: -226.25266
-    width: 137.05878
+    x: 1303.4757
+    y: -197.68124
+    width: 132.28574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17127,9 +17124,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 564.00323
-    y: -49.21295
-    width: 129.99997
+    x: 1060.4303
+    y: -20.64154
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17205,9 +17202,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 417.14523
-    y: -45.415497
-    width: 129.99997
+    x: 913.5723
+    y: -16.844086
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17283,9 +17280,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 271.75345
-    y: -49.21295
-    width: 129.99997
+    x: 768.18066
+    y: -20.64154
+    width: 126.57145
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17361,9 +17358,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 581.4287
-    y: -129.75583
-    width: 129.99997
+    x: 1077.8557
+    y: -101.18442
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17439,9 +17436,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 432.5297
-    y: -125.95838
-    width: 129.99997
+    x: 928.9568
+    y: -97.38696
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17517,9 +17514,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 287.1379
-    y: -129.75583
-    width: 137.05878
+    x: 783.5651
+    y: -101.18442
+    width: 132.28574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17595,9 +17592,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 581.33813
-    y: -219.80106
-    width: 129.99997
+    x: 1077.7651
+    y: -191.22964
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17673,9 +17670,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 432.43912
-    y: -216.00359
-    width: 129.99997
+    x: 928.8662
+    y: -187.43217
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17751,9 +17748,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 287.04733
-    y: -219.80106
-    width: 129.99997
+    x: 783.47455
+    y: -191.22964
+    width: 126.57145
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17829,9 +17826,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 45.649902
-    y: -47.172134
-    width: 129.99997
+    x: 626.36304
+    y: -60.029274
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17907,9 +17904,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -101.208206
-    y: -43.37468
-    width: 129.99997
+    x: 479.50516
+    y: -56.231827
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17985,9 +17982,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -246.60071
-    y: -47.172134
-    width: 129.99997
+    x: 334.11295
+    y: -60.029274
+    width: 126.57145
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18063,9 +18060,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 63.07524
-    y: -127.71502
-    width: 129.99997
+    x: 643.7884
+    y: -140.57224
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18141,9 +18138,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -85.82362
-    y: -123.91757
-    width: 129.99997
+    x: 494.8897
+    y: -136.77478
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18219,9 +18216,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -231.21625
-    y: -127.71502
-    width: 129.99997
+    x: 349.49734
+    y: -140.57224
+    width: 126.57145
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18297,9 +18294,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 62.984665
-    y: -217.76024
-    width: 129.99997
+    x: 643.6978
+    y: -230.61746
+    width: 130.00003
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18375,9 +18372,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -85.9142
-    y: -213.96277
-    width: 129.99997
+    x: 494.79913
+    y: -226.81999
+    width: 128.85716
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18453,9 +18450,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -231.30682
-    y: -217.76024
-    width: 129.99997
+    x: 349.40677
+    y: -230.61746
+    width: 127.71431
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18539,7 +18536,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1058.408
     y: -211.01991
-    width: 153.52936
+    width: 150.57146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18699,8 +18696,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Podcaster: Are you admitting to something?\r\nHassan: Stop cancelling
-      me.\r\nPodcaster: Sorry.\r\nHassan: Don\u2019t apologize, wolf.\r\n"
+    stringVal: "Hassan: Stop cancelling me.\r\nPodcaster: Sorry.\r\nHassan: Don\u2019t
+      apologize, wolf.\r\n"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -18727,14 +18724,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -452.07376
-    y: -133.9434
-    width: 177.05875
+    x: -570.81104
+    y: -181.36107
+    width: 163.14288
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 163
-  blockName: Topic1HassanOption2
+  blockName: D1T1HassanOption2
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -18781,7 +18778,8 @@ MonoBehaviour:
     stringRef: {fileID: 0}
     stringVal: "Podcaster: Dear listeners, I hope you have understood this truth.\r\nPodcaster:
       Only a pathetic reject wouldn\u2019t.\r\nPodcaster: Be the reason the weaker
-      is unsafe.\r\nPodcaster: And tune in next time!\r\n\nHassan hide:\nHost hide:"
+      is unsafe.\r\nPodcaster: And tune in next time!\r\n\nOleg hide:\nHutch hide:\nHassan
+      hide:\nHost hide:"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -18808,14 +18806,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -581.6657
-    y: -36.785076
-    width: 153.52936
+    x: -577.38
+    y: 14.64349
+    width: 108.28573
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 152
-  blockName: Topic1HassanEnd
+  blockName: Topic1End
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -18839,8 +18837,9 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Podcaster: But that is against a gentleman\u2019s code!\r\nHassan:
-      Grow a pair, you unfuckable incel!\r\n"
+    stringVal: 'Hassan: Grow a pair, you unfuckable incel!
+
+'
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -18867,14 +18866,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -696.35004
-    y: -125.53647
-    width: 177.05875
+    x: -575.52594
+    y: -224.65735
+    width: 162.00003
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 150
-  blockName: Topic1HassanOption1
+  blockName: D1T1HassanOption1
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -19014,7 +19013,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1064.9385
     y: -127.346405
-    width: 172.35287
+    width: 171.14288
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19025,6 +19024,557 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292208}
   suppressAllAutoSelections: 0
+--- !u!114 &935292210
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 174
+  indentLevel: 0
+  text: 'Podcaster: Destroying all that diversity shit though?'
+  description: 
+  targetBlock: {fileID: 935292211}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &935292211
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -841.07916
+    y: -84.66969
+    width: 174.57147
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 182
+  blockName: D1T1OlegOlegOption2
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 935292214}
+  - {fileID: 935292213}
+  - {fileID: 935292212}
+  suppressAllAutoSelections: 0
+--- !u!114 &935292212
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 181
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 935292201}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &935292213
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f608b8c9fb3044200aac956492d8d586, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 180
+  indentLevel: 0
+  conversationText:
+    stringRef: {fileID: 0}
+    stringVal: 'Oleg: The current government are corrupt globalist spies.
+
+      Oleg:
+      Action should be taken only for projects financed by outside lobbies.'
+  clearPrevious:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForInput:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForSeconds:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  fadeWhenDone:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+--- !u!114 &935292214
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b115619cb83b4d6ab8047d0e9407403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 179
+  indentLevel: 0
+  isStartPoint: 0
+  keyMode: 0
+  customKey: 
+  keySeparator: _
+  descriptionMode: 0
+  customDescription: 
+  fireEvent: 1
+  resumeOnLoad: 1
+--- !u!114 &935292215
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 173
+  indentLevel: 0
+  text: 'Podcaster: Depends how strong the government is!'
+  description: 
+  targetBlock: {fileID: 935292216}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &935292216
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -825.9689
+    y: -123.18623
+    width: 147.14288
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 175
+  blockName: D1T1OlegOption1
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 935292219}
+  - {fileID: 935292218}
+  - {fileID: 935292217}
+  suppressAllAutoSelections: 0
+--- !u!114 &935292217
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 178
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 935292201}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &935292218
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f608b8c9fb3044200aac956492d8d586, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 177
+  indentLevel: 0
+  conversationText:
+    stringRef: {fileID: 0}
+    stringVal: 'Oleg: Spoken like a true patriot.'
+  clearPrevious:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForInput:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForSeconds:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  fadeWhenDone:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+--- !u!114 &935292219
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b115619cb83b4d6ab8047d0e9407403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 176
+  indentLevel: 0
+  isStartPoint: 0
+  keyMode: 0
+  customKey: 
+  keySeparator: _
+  descriptionMode: 0
+  customDescription: 
+  fireEvent: 1
+  resumeOnLoad: 1
+--- !u!114 &935292220
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b115619cb83b4d6ab8047d0e9407403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 172
+  indentLevel: 0
+  isStartPoint: 0
+  keyMode: 0
+  customKey: 
+  keySeparator: _
+  descriptionMode: 0
+  customDescription: 
+  fireEvent: 1
+  resumeOnLoad: 1
+--- !u!114 &935292221
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -187.01932
+    y: -163.39389
+    width: 155.14288
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 194
+  blockName: D1T1HutchOption2
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 935292224}
+  - {fileID: 935292223}
+  - {fileID: 935292222}
+  suppressAllAutoSelections: 0
+--- !u!114 &935292222
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 189
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 935292201}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &935292223
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f608b8c9fb3044200aac956492d8d586, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 188
+  indentLevel: 0
+  conversationText:
+    stringRef: {fileID: 0}
+    stringVal: 'Hutch: Mind your pink ass getting dick!'
+  clearPrevious:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForInput:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForSeconds:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  fadeWhenDone:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+--- !u!114 &935292224
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b115619cb83b4d6ab8047d0e9407403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 187
+  indentLevel: 0
+  isStartPoint: 0
+  keyMode: 0
+  customKey: 
+  keySeparator: _
+  descriptionMode: 0
+  customDescription: 
+  fireEvent: 1
+  resumeOnLoad: 1
+--- !u!114 &935292225
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 185
+  indentLevel: 0
+  text: 'Podcaster: Mind your language on my show!'
+  description: 
+  targetBlock: {fileID: 935292221}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &935292226
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 184
+  indentLevel: 0
+  text: "Podcaster: I\u2019ll piss on your grave you old fart!"
+  description: 
+  targetBlock: {fileID: 935292227}
+  hideIfVisited: 0
+  interactable:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  setMenuDialog: {fileID: 0}
+  hideThisOption:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+--- !u!114 &935292227
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3d73aef2cfc4f51abf34ac00241f60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeRect:
+    serializedVersion: 2
+    x: -190.60162
+    y: -205.21414
+    width: 154.00003
+    height: 40
+  tint: {r: 1, g: 1, b: 1, a: 1}
+  useCustomTint: 0
+  itemId: 195
+  blockName: D1T1HutchOption1
+  description: 
+  eventHandler: {fileID: 0}
+  commandList:
+  - {fileID: 935292230}
+  - {fileID: 935292229}
+  - {fileID: 935292228}
+  suppressAllAutoSelections: 0
+--- !u!114 &935292228
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 193
+  indentLevel: 0
+  targetFlowchart: {fileID: 0}
+  targetBlock: {fileID: 935292201}
+  startLabel:
+    stringRef: {fileID: 0}
+    stringVal: 
+  startIndex: 0
+  callMode: 0
+--- !u!114 &935292229
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f608b8c9fb3044200aac956492d8d586, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 192
+  indentLevel: 0
+  conversationText:
+    stringRef: {fileID: 0}
+    stringVal: "Hutch: That\u2019s the spirit!"
+  clearPrevious:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForInput:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+  waitForSeconds:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  fadeWhenDone:
+    booleanRef: {fileID: 0}
+    booleanVal: 1
+--- !u!114 &935292230
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b115619cb83b4d6ab8047d0e9407403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 191
+  indentLevel: 0
+  isStartPoint: 0
+  keyMode: 0
+  customKey: 
+  keySeparator: _
+  descriptionMode: 0
+  customDescription: 
+  fireEvent: 1
+  resumeOnLoad: 1
+--- !u!114 &935292231
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b115619cb83b4d6ab8047d0e9407403, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 183
+  indentLevel: 0
+  isStartPoint: 0
+  keyMode: 0
+  customKey: 
+  keySeparator: _
+  descriptionMode: 0
+  customDescription: 
+  fireEvent: 1
+  resumeOnLoad: 1
 --- !u!1 &1002616894
 GameObject:
   m_ObjectHideFlags: 0
