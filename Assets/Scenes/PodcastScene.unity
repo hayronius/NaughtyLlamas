@@ -19882,7 +19882,7 @@ MonoBehaviour:
       Podcaster:
       And tune in next time!
 
-      
+
 
       Travis hide:
 
@@ -20077,8 +20077,8 @@ MonoBehaviour:
     stringVal: 'Ray: Try being on the couch for years and walking up to this here
       studio!
 
-      Podcaster: I apologize for not acknowledging your laziness
-      well enough.'
+      Podcaster: I apologize for not acknowledging your laziness well
+      enough.'
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -21180,7 +21180,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 324
+  itemId: 436
   blockName: D2T3RafaelloOption2
   description: 
   eventHandler: {fileID: 0}
@@ -21290,7 +21290,7 @@ MonoBehaviour:
 
       Podcaster: Until next time!
 
-      
+
 
       Oleg hide:
 
@@ -21431,7 +21431,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 325
+  itemId: 435
   blockName: D2T3RafaelloOption1
   description: 
   eventHandler: {fileID: 0}
@@ -21627,7 +21627,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 323
+  itemId: 434
   blockName: D2T3OlegOption2
   description: 
   eventHandler: {fileID: 0}
@@ -21756,7 +21756,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 322
+  itemId: 433
   blockName: D2T3OlegOption1
   description: 
   eventHandler: {fileID: 0}
@@ -21953,7 +21953,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 321
+  itemId: 432
   blockName: D2T3DrFeldmanOption2
   description: 
   eventHandler: {fileID: 0}
@@ -22081,7 +22081,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 283
+  itemId: 431
   blockName: D2T3DrFeldmanOption1
   description: 
   eventHandler: {fileID: 0}
@@ -22276,7 +22276,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 324
+  itemId: 429
   blockName: D2T2TravisOption2
   description: 
   eventHandler: {fileID: 0}
@@ -22326,7 +22326,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 271
+  itemId: 424
   blockName: D2Topic2End
   description: 
   eventHandler: {fileID: 0}
@@ -22509,7 +22509,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 325
+  itemId: 430
   blockName: D2T2TravisOption1
   description: 
   eventHandler: {fileID: 0}
@@ -22704,7 +22704,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 323
+  itemId: 428
   blockName: D2T2CoryOption2
   description: 
   eventHandler: {fileID: 0}
@@ -22834,7 +22834,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 322
+  itemId: 427
   blockName: D2T2CoryOption1
   description: 
   eventHandler: {fileID: 0}
@@ -23029,7 +23029,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 321
+  itemId: 426
   blockName: D2T2HutchOption2
   description: 
   eventHandler: {fileID: 0}
@@ -23156,7 +23156,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 283
+  itemId: 425
   blockName: D2T2HutchOption1
   description: 
   eventHandler: {fileID: 0}
@@ -23834,8 +23834,8 @@ MonoBehaviour:
     stringRef: {fileID: 0}
     stringVal: 'Hassan: Depends on which god.
 
-      Hassan: The unholy ones do
-      not count. '
+      Hassan: The unholy ones do not
+      count. '
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -24968,11 +24968,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
-    m_FontSize: 50
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 50
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -26641,11 +26641,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
-    m_FontSize: 45
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 4
-    m_MaxSize: 50
+    m_MaxSize: 70
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1

@@ -6156,11 +6156,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
-    m_FontSize: 50
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 50
+    m_MinSize: 6
+    m_MaxSize: 60
     m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -6258,7 +6258,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
-    m_FontSize: 65
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 4
@@ -6632,7 +6632,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 891855060927141474, guid: fb6b88a38d275704dbc1e305ba372bca, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.00060458505
+      value: 0.000062224186
       objectReference: {fileID: 0}
     - target: {fileID: 891855061022131144, guid: fb6b88a38d275704dbc1e305ba372bca, type: 3}
       propertyPath: m_AnchorMax.y

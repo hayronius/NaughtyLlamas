@@ -4763,11 +4763,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
-    m_FontSize: 45
+    m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 4
-    m_MaxSize: 50
+    m_MinSize: 0
+    m_MaxSize: 300
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -5153,11 +5153,11 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 7a3c6a4a887ccd6479153bdefe12c868, type: 3}
-    m_FontSize: 50
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
-    m_MaxSize: 50
+    m_MinSize: 6
+    m_MaxSize: 70
     m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
@@ -13490,7 +13490,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 404
   indentLevel: 0
-  storyText: Travis, uncultured brat
+  storyText: 'Travis, uncultured brat
+
+    {wc}
+
+    Raised without any boundaries,
+    Travis knew that he was destined for great things when he hit his mom and got
+    away with it. Currently spending his days reminiscing of his glory days reminiscing
+    of success at rhythm game leader boards and shouting at his parents for money,
+    this twentysomething prodigy has egomaniacal wisdom to impart upon your viewers.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13669,7 +13677,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 402
   indentLevel: 0
-  storyText: Ray, family inheritance rapper
+  storyText: 'Ray, family inheritance rapper
+
+    {wc}
+
+    Growing up in a gated
+    community, Ray failed to grasp the political message of his old school rap idols.
+    His life, slowly filling his discography with songs fetishizing excess wealth
+    and misogyny, he came to believe that the negative response to his artistic endeavours
+    stems not from their lack of quality, but rather from political oppression of
+    the non-binary underground.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13848,7 +13865,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 400
   indentLevel: 0
-  storyText: Oleg, fascist war vet
+  storyText: 'Oleg, fascist war vet
+
+    {wc}
+
+    After a box of munitions fell
+    on his leg during peacetime, Oleg recklessly flaunted his war invalid status
+    and got elected mayor in a village several hundred kilometres from his hometown.
+    Using every possible opportunity to attack sexual minorities in mass media, for
+    a large sum of influence you too can have this pillar of civilization grace your
+    studio.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14027,7 +14053,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 398
   indentLevel: 0
-  storyText: Hutch, your old gym teacher
+  storyText: "Hutch, your old gym teacher\n{wc}\nWell, the day finally happened,
+    old Hutch\u2019s brittle bones caved in and he cannot perform his God given duty
+    of imprinting boys and girls with a lifelong hatred of demanding physical movement.
+    A firm believer in the power of might, your platform might be just what Hutch
+    needs to project his worldviews unto others. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14206,7 +14236,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 386
   indentLevel: 0
-  storyText: Hassan, self-proclaimed millionaire
+  storyText: 'Hassan, self-proclaimed millionaire
+
+    {wc}
+
+    Resonating with
+    a few images he had seen on the internet, Hassan decided to quit his retail job
+    and enter as many pyramid schemes he could with hopes of reaching it to the top.
+    Developing a taste for expensive kitsch, he successfully juggles crippling debt
+    and sending threatening messages to women over social networks. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14406,7 +14444,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 383
   indentLevel: 0
-  storyText: "Bethany, your ex-wife\u2019s sixth best friend\n{wc}\n"
+  storyText: "Bethany, your ex-wife\u2019s sixth best friend\n{wc}\nNever having
+    enough integrity and dedication to commit to anything, or talent and confidence
+    to simply wing it, Bethany spent her years quietly judging others from the background.
+    In exchange for a little influence, on your platform she sees the opportunity
+    to say whatever she wants on behalf of all women, everywhere."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -31939,7 +31981,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 756
   indentLevel: 0
-  storyText: Rafaello, embittered ex-activist
+  storyText: "Rafaello, embittered ex-activist\n{wc}\nMeeting Rafaello on your previous
+    profession, you could not help but notice how he pushed progressive ideas forward
+    whenever there seemed to be something to gain from it. Unfortunately, not achieving
+    the grandeur he hoped for, you firmly believe that he will hang his old Che Guevara
+    t-shirt for just a little influence\u2026"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32146,7 +32192,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 753
   indentLevel: 0
-  storyText: Dr. Feldman, psycho-astrologist
+  storyText: 'Dr. Feldman, psycho-astrologist
+
+    {wc}
+
+    Dedicating her youth
+    to superficially reading Indological literature and discussing it with cultist
+    mystics, through the power of charm and a really loud voice Dr. Feldman has succeeded
+    to slip through the cracks of academia and earn her name a most esteemed prefix.
+    However, since then nobody took her seriously anymore, until you came along.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32353,7 +32407,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 750
   indentLevel: 0
-  storyText: Cory, jolly bootlicker
+  storyText: 'Cory, jolly bootlicker
+
+    {wc}
+
+    Accepting boredom as a part of
+    everyday life, Cory successfully managed until adulthood filling the overgrowing
+    void within with as much corporate tech and merch he could. Devoid of all imagination,
+    he is unable to imagine a different world, and has the capacity to turn feral
+    and do piledrivers if somebody tries to shake his conformist lifestyle.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
