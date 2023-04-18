@@ -15683,6 +15683,23 @@ GameObject:
   - component: {fileID: 935292326}
   - component: {fileID: 935292321}
   - component: {fileID: 935292312}
+  - component: {fileID: 935292448}
+  - component: {fileID: 935292447}
+  - component: {fileID: 935292446}
+  - component: {fileID: 935292445}
+  - component: {fileID: 935292444}
+  - component: {fileID: 935292443}
+  - component: {fileID: 935292442}
+  - component: {fileID: 935292441}
+  - component: {fileID: 935292440}
+  - component: {fileID: 935292439}
+  - component: {fileID: 935292438}
+  - component: {fileID: 935292437}
+  - component: {fileID: 935292436}
+  - component: {fileID: 935292435}
+  - component: {fileID: 935292433}
+  - component: {fileID: 935292434}
+  - component: {fileID: 935292432}
   m_Layer: 0
   m_Name: Conversations
   m_TagString: Untagged
@@ -15766,8 +15783,7 @@ MonoBehaviour:
       thy perspective! Do you want to be such a loser all your life?\r\nPodcaster:
       Go out wrecking shit, and soon enough you will notice your physique and general
       mental wellbeing improve.\r\nHutch: Remember \u2013 beat up the degenerates!\r\nPodcaster:
-      Who exactly are the degenerates?\r\nHutch: Wimp ass football sissies such as
-      yourself.\r"
+      Who exactly are the degenerates?\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -15807,6 +15823,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292231}
   - {fileID: 935292080}
+  - {fileID: 935292447}
   - {fileID: 935292226}
   - {fileID: 935292225}
   suppressAllAutoSelections: 0
@@ -15902,7 +15919,7 @@ MonoBehaviour:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
       pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our very first special guest is\u2026\r\n\r\nPodcaster: Oleg, a renowned
+      And our very first special guest is\u2026\r\n\nPodcaster: Oleg, a renowned
       warrior and fighter for human rights!\r\nOleg Normal Right: We do not respect
       our forefathers anymore!\r\nPodcaster: And today\u2019s topic concerns us all
       \u2013 training, health and exercise!\r\nPodcaster: Have you unsuccessfully
@@ -15914,8 +15931,7 @@ MonoBehaviour:
       weak words of the old you!\r\nPodcaster: Change thy perspective! Do you want
       to be such a loser all your life?\r\nPodcaster: Go out wrecking shit, and soon
       enough you will notice your physique and general mental wellbeing improve.\r\nOleg:
-      But remember \u2013 no touching state property.\r\nOleg: How do you feel about
-      touching state property, microphone man?"
+      But remember \u2013 no touching state property.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -15955,6 +15971,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292220}
   - {fileID: 935292084}
+  - {fileID: 935292448}
   - {fileID: 935292215}
   - {fileID: 935292210}
   suppressAllAutoSelections: 0
@@ -15971,7 +15988,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 454.58463, y: 491.23572}
+  scrollPos: {x: 399.41263, y: 267.09787}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 404.8
@@ -15983,7 +16000,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 935292162}
+  - {fileID: 935292165}
   selectedCommands: []
   variables: []
   description: 
@@ -16025,7 +16042,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -181.76797
+    x: -183.49211
     y: 201.09377
     width: 127.24136
     height: 40
@@ -16040,6 +16057,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292247}
   - {fileID: 935292246}
+  - {fileID: 935292441}
   - {fileID: 935292241}
   - {fileID: 935292232}
   suppressAllAutoSelections: 0
@@ -16070,6 +16088,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292259}
   - {fileID: 935292258}
+  - {fileID: 935292442}
   - {fileID: 935292253}
   - {fileID: 935292248}
   suppressAllAutoSelections: 0
@@ -16100,6 +16119,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292275}
   - {fileID: 935292274}
+  - {fileID: 935292443}
   - {fileID: 935292269}
   - {fileID: 935292260}
   suppressAllAutoSelections: 0
@@ -16130,6 +16150,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292287}
   - {fileID: 935292286}
+  - {fileID: 935292444}
   - {fileID: 935292281}
   - {fileID: 935292276}
   suppressAllAutoSelections: 0
@@ -16160,6 +16181,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292299}
   - {fileID: 935292298}
+  - {fileID: 935292445}
   - {fileID: 935292293}
   - {fileID: 935292288}
   suppressAllAutoSelections: 0
@@ -16190,6 +16212,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292307}
   - {fileID: 935292306}
+  - {fileID: 935292446}
   - {fileID: 935292301}
   - {fileID: 935292300}
   suppressAllAutoSelections: 0
@@ -17624,6 +17647,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292327}
   - {fileID: 935292326}
+  - {fileID: 935292433}
   - {fileID: 935292321}
   - {fileID: 935292312}
   suppressAllAutoSelections: 0
@@ -17654,6 +17678,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292339}
   - {fileID: 935292338}
+  - {fileID: 935292434}
   - {fileID: 935292333}
   - {fileID: 935292328}
   suppressAllAutoSelections: 0
@@ -17684,6 +17709,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292351}
   - {fileID: 935292350}
+  - {fileID: 935292432}
   - {fileID: 935292345}
   - {fileID: 935292340}
   suppressAllAutoSelections: 0
@@ -17714,6 +17740,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292367}
   - {fileID: 935292366}
+  - {fileID: 935292435}
   - {fileID: 935292361}
   - {fileID: 935292352}
   suppressAllAutoSelections: 0
@@ -17744,6 +17771,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292379}
   - {fileID: 935292378}
+  - {fileID: 935292436}
   - {fileID: 935292373}
   - {fileID: 935292368}
   suppressAllAutoSelections: 0
@@ -17774,6 +17802,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292391}
   - {fileID: 935292390}
+  - {fileID: 935292437}
   - {fileID: 935292385}
   - {fileID: 935292380}
   suppressAllAutoSelections: 0
@@ -17804,6 +17833,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292407}
   - {fileID: 935292406}
+  - {fileID: 935292438}
   - {fileID: 935292401}
   - {fileID: 935292392}
   suppressAllAutoSelections: 0
@@ -17834,6 +17864,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292419}
   - {fileID: 935292418}
+  - {fileID: 935292439}
   - {fileID: 935292413}
   - {fileID: 935292408}
   suppressAllAutoSelections: 0
@@ -17864,6 +17895,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 935292431}
   - {fileID: 935292430}
+  - {fileID: 935292440}
   - {fileID: 935292425}
   - {fileID: 935292420}
   suppressAllAutoSelections: 0
@@ -18441,7 +18473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 174
   indentLevel: 0
-  text: 'Podcaster: Destroying all that diversity shit though?'
+  text: Destroying all that diversity shit though?
   description: 
   targetBlock: {fileID: 935292211}
   hideIfVisited: 0
@@ -18570,7 +18602,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 173
   indentLevel: 0
-  text: 'Podcaster: Depends how strong the government is!'
+  text: Depends how strong the government is!
   description: 
   targetBlock: {fileID: 935292216}
   hideIfVisited: 0
@@ -18819,7 +18851,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 185
   indentLevel: 0
-  text: 'Podcaster: Mind your language on my show!'
+  text: Mind your language on my show!
   description: 
   targetBlock: {fileID: 935292221}
   hideIfVisited: 0
@@ -18844,7 +18876,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 184
   indentLevel: 0
-  text: "Podcaster: I\u2019ll piss on your grave you old fart!"
+  text: "I\u2019ll piss on your grave you old fart!"
   description: 
   targetBlock: {fileID: 935292227}
   hideIfVisited: 0
@@ -18992,7 +19024,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 270
   indentLevel: 0
-  text: 'Podcaster: Any crazy, violent people at the protest?'
+  text: Any crazy, violent people at the protest?
   description: 
   targetBlock: {fileID: 935292233}
   hideIfVisited: 0
@@ -19225,7 +19257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 269
   indentLevel: 0
-  text: 'Podcaster: Did your repent?'
+  text: Did your repent?
   description: 
   targetBlock: {fileID: 935292242}
   hideIfVisited: 0
@@ -19370,8 +19402,7 @@ MonoBehaviour:
       to get to the divine image of leisurely kings!\r\nPodcaster: Indulge in excess
       so much it becomes amoral, become royalty!\r\nPodcaster: Let your muscles wither
       away, your soul fall apart!\r\nPodcaster: In the new world, we need only men
-      capable of surviving radiation!\r\nRafaello: Yeah, I remembered being on an
-      anti-irradiated royalty protest.\r"
+      capable of surviving radiation!\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -19420,7 +19451,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 266
   indentLevel: 0
-  text: 'Podcaster: How can we implement this method into modern educational systems?'
+  text: How can we implement this method into modern educational systems?
   description: 
   targetBlock: {fileID: 935292249}
   hideIfVisited: 0
@@ -19548,7 +19579,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 265
   indentLevel: 0
-  text: 'Podcaster: Source?'
+  text: Source?
   description: 
   targetBlock: {fileID: 935292254}
   hideIfVisited: 0
@@ -19694,8 +19725,7 @@ MonoBehaviour:
       muscles wither away, your soul fall apart!\r\nPodcaster: In the new world,
       we need only men capable of surviving radiation!\r\nDrFeldman: You know, the
       old Mayans used to inhale burning plastic\u2026\r\nDrFeldman: \u2026the vapors
-      made them stronger\u2026\r\nDrFeldman: \u2026shriveled corpses of unworthy
-      youth littered the streets."
+      made them stronger\u2026\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -19744,7 +19774,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 234
   indentLevel: 0
-  text: 'Podcaster: Was it rough on the street?'
+  text: Was it rough on the street?
   description: 
   targetBlock: {fileID: 935292261}
   hideIfVisited: 0
@@ -19997,7 +20027,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 233
   indentLevel: 0
-  text: 'Podcaster: What is the artist trying to say?'
+  text: What is the artist trying to say?
   description: 
   targetBlock: {fileID: 935292270}
   hideIfVisited: 0
@@ -20143,8 +20173,7 @@ MonoBehaviour:
       as he could to get to the divine image of leisurely kings!\r\nPodcaster: Indulge
       in excess so much it becomes amoral, become royalty!\r\nPodcaster: Let your
       muscles wither away, your soul fall apart!\r\nPodcaster: In the new world,
-      we need only men capable of surviving radiation!\r\nRay: Fool, talking about
-      leisure like you never been on the street!"
+      we need only men capable of surviving radiation!\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -20193,7 +20222,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 207
   indentLevel: 0
-  text: 'Podcaster: What is inside the cheese puff, Cory?'
+  text: What is inside the cheese puff, Cory?
   description: 
   targetBlock: {fileID: 935292277}
   hideIfVisited: 0
@@ -20322,7 +20351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 206
   indentLevel: 0
-  text: 'Podcaster: Cory, I require monetary compensation for this ad.'
+  text: Cory, I require monetary compensation for this ad.
   description: 
   targetBlock: {fileID: 935292282}
   hideIfVisited: 0
@@ -20462,8 +20491,7 @@ MonoBehaviour:
       appropriate\u201D ninja warriors.\r\nPodcaster: No part of thy outward behaviour
       should break away from the mold.\r\nPodcaster: A game of a life for you, and
       surveillance falls only on the freaks!\r\nPodcaster: Become part of the watchers,
-      reject the watched!\r\nCory: Stink of mediocrity with Cory chessebag puffs!
-      Only 5 etherium credits!"
+      reject the watched!\r\n"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -20512,7 +20540,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 203
   indentLevel: 0
-  text: "Podcaster: But Travis, you are coated in consumer mold\u2026"
+  text: "But Travis, you are coated in consumer mold\u2026"
   description: 
   targetBlock: {fileID: 935292289}
   hideIfVisited: 0
@@ -20639,7 +20667,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 202
   indentLevel: 0
-  text: 'Podcaster: Travis, we all know you are very special.'
+  text: Travis, we all know you are very special.
   description: 
   targetBlock: {fileID: 935292294}
   hideIfVisited: 0
@@ -20779,8 +20807,7 @@ MonoBehaviour:
       appropriate\u201D ninja warriors.\r\nPodcaster: No part of thy outward behaviour
       should break away from the mold.\r\nPodcaster: A game of a life for you, and
       surveillance falls only on the freaks!\r\nPodcaster: Become part of the watchers,
-      reject the watched!\r\nTravis: Idiot, what are you on about!\r\nTravis: My
-      hoodie, my burger, my joint make me a modern god!\r"
+      reject the watched!\r\nTravis: Idiot, what are you on about!\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -20829,7 +20856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 199
   indentLevel: 0
-  text: 'Podcaster: What is your opinion of those magazines?'
+  text: What is your opinion of those magazines?
   description: 
   targetBlock: {fileID: 935292261}
   hideIfVisited: 0
@@ -20854,7 +20881,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 198
   indentLevel: 0
-  text: "Podcaster: Isn\u2019t fashion a manipulative tool glorifying wealth?"
+  text: "Isn\u2019t fashion a manipulative tool glorifying wealth?"
   description: 
   targetBlock: {fileID: 935292302}
   hideIfVisited: 0
@@ -20997,7 +21024,7 @@ MonoBehaviour:
       No part of thy outward behaviour should break away from the mold.\r\nPodcaster:
       A game of a life for you, and surveillance falls only on the freaks!\r\nPodcaster:
       Become part of the watchers, reject the watched!\r\nBethany: Well said, glorious
-      male specimen.\r\nBethany: Myself fuses with the mold by reading fashion magazines!\r"
+      male specimen.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -21149,7 +21176,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 423
   indentLevel: 0
-  text: 'Podcaster: Are you ashamed?'
+  text: Are you ashamed?
   description: 
   targetBlock: {fileID: 935292313}
   hideIfVisited: 0
@@ -21400,7 +21427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 422
   indentLevel: 0
-  text: 'Podcaster: What changed?'
+  text: What changed?
   description: 
   targetBlock: {fileID: 935292322}
   hideIfVisited: 0
@@ -21546,8 +21573,7 @@ MonoBehaviour:
       engaging with them.\r\nPodcaster: 43% of society is useless and can be surgically
       extracted.\r\nPodcaster: It should be statutory to take everything from them.\r\nPodcaster:
       If they were worthy enough, they would have risen above.\r\nPodcaster: We used
-      to call that \u201Cdivine intervention\u201D.\r\nRafaello: I used to be one
-      of those \u201Cwagies\u201D."
+      to call that \u201Cdivine intervention\u201D.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -21596,7 +21622,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 419
   indentLevel: 0
-  text: 'Podcaster: But how do we monetize it?'
+  text: But how do we monetize it?
   description: 
   targetBlock: {fileID: 935292329}
   hideIfVisited: 0
@@ -21725,7 +21751,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 418
   indentLevel: 0
-  text: 'Podcaster: Well, sign me right up!'
+  text: Well, sign me right up!
   description: 
   targetBlock: {fileID: 935292334}
   hideIfVisited: 0
@@ -21873,7 +21899,7 @@ MonoBehaviour:
       were worthy enough, they would have risen above.\r\nPodcaster: We used to call
       that \u201Cdivine intervention\u201D.\r\nOleg: Therein lies the importance
       of a strong national military.\r\nOleg: Gives men a purpose, morphs them into
-      more than worker.\r\nOleg: Still less than ruler and clergy."
+      more than worker.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -21922,7 +21948,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 415
   indentLevel: 0
-  text: 'Podcaster:  The wailing souls?'
+  text: The wailing souls?
   description: 
   targetBlock: {fileID: 935292341}
   hideIfVisited: 0
@@ -22050,7 +22076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 414
   indentLevel: 0
-  text: 'Podcaster: Of the degenerate modern art?'
+  text: Of the degenerate modern art?
   description: 
   targetBlock: {fileID: 935292346}
   hideIfVisited: 0
@@ -22195,8 +22221,7 @@ MonoBehaviour:
       engaging with them.\r\nPodcaster: 43% of society is useless and can be surgically
       extracted.\r\nPodcaster: It should be statutory to take everything from them.\r\nPodcaster:
       If they were worthy enough, they would have risen above.\r\nPodcaster: We used
-      to call that \u201Cdivine intervention\u201D.\r\nDrFeldman: We should rid ourselves
-      of the artists as well.\r"
+      to call that \u201Cdivine intervention\u201D.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22245,7 +22270,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 411
   indentLevel: 0
-  text: 'Podcaster: Okay, prove it.'
+  text: Okay, prove it.
   description: 
   targetBlock: {fileID: 935292353}
   hideIfVisited: 0
@@ -22478,7 +22503,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 410
   indentLevel: 0
-  text: 'Podcaster: Who are you kidding?'
+  text: Who are you kidding?
   description: 
   targetBlock: {fileID: 935292362}
   hideIfVisited: 0
@@ -22623,8 +22648,7 @@ MonoBehaviour:
       Simply sink in the worn-down faces of those who tried to comprehend and act.\r\nPodcaster:
       Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\nPodcaster:
       When everyone is special, no one is.\r\nPodcaster: And when no one is, we can
-      lift our feet up. No expectations means no disappointments.\r\nTravis: But
-      I\u2019m so very special you old chickenburger."
+      lift our feet up. No expectations means no disappointments.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22673,7 +22697,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 407
   indentLevel: 0
-  text: 'Podcaster: Save us from what, Corey?'
+  text: Save us from what, Corey?
   description: 
   targetBlock: {fileID: 935292369}
   hideIfVisited: 0
@@ -22803,7 +22827,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 406
   indentLevel: 0
-  text: 'Podcaster: Who are they, Corey?'
+  text: Who are they, Corey?
   description: 
   targetBlock: {fileID: 935292374}
   hideIfVisited: 0
@@ -22948,8 +22972,7 @@ MonoBehaviour:
       Simply sink in the worn-down faces of those who tried to comprehend and act.\r\nPodcaster:
       Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\nPodcaster:
       When everyone is special, no one is.\r\nPodcaster: And when no one is, we can
-      lift our feet up. No expectations means no disappointments.\r\nCory: They always
-      do save us in the end.\r"
+      lift our feet up. No expectations means no disappointments.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22998,7 +23021,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 403
   indentLevel: 0
-  text: 'Podcaster: One of the boys.'
+  text: One of the boys.
   description: 
   targetBlock: {fileID: 935292381}
   hideIfVisited: 0
@@ -23125,7 +23148,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 402
   indentLevel: 0
-  text: 'Podcaster: The runt of the litter.'
+  text: The runt of the litter.
   description: 
   targetBlock: {fileID: 935292386}
   hideIfVisited: 0
@@ -23275,8 +23298,7 @@ MonoBehaviour:
       Simply sink in the worn-down faces of those who tried to comprehend and act.\r\nPodcaster:
       Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\nPodcaster:
       When everyone is special, no one is.\r\nPodcaster: And when no one is, we can
-      lift our feet up. No expectations means no disappointments.\r\nHutch: Seems
-      you have finally understood the position you are in, boy."
+      lift our feet up. No expectations means no disappointments.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -23325,7 +23347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 399
   indentLevel: 0
-  text: 'Podcaster: I was one of the weak then.'
+  text: I was one of the weak then.
   description: 
   targetBlock: {fileID: 935292393}
   hideIfVisited: 0
@@ -23560,7 +23582,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 398
   indentLevel: 0
-  text: 'Podcaster: That was totally justified.'
+  text: That was totally justified.
   description: 
   targetBlock: {fileID: 935292402}
   hideIfVisited: 0
@@ -23705,8 +23727,7 @@ MonoBehaviour:
       actions.\r\nPodcaster: We will never go anywhere if we do not let the strong
       flourish.\r\nPodcaster: It is unnatural for predators to sit idly. \r\nPodcaster:
       The only existing relationship in the animal kingdom.\r\nPodcaster: One between
-      predator and prey.\r\nBethany: I remember when you used to steal from your
-      employer."
+      predator and prey.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -23755,7 +23776,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 395
   indentLevel: 0
-  text: 'Podcaster: Godly and unholy?'
+  text: Godly and unholy?
   description: 
   targetBlock: {fileID: 935292409}
   hideIfVisited: 0
@@ -23884,7 +23905,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 394
   indentLevel: 0
-  text: 'Podcaster: Worthy and unworty?'
+  text: Worthy and unworty?
   description: 
   targetBlock: {fileID: 935292414}
   hideIfVisited: 0
@@ -24033,7 +24054,7 @@ MonoBehaviour:
       actions.\r\nPodcaster: We will never go anywhere if we do not let the strong
       flourish.\r\nPodcaster: It is unnatural for predators to sit idly. \r\nPodcaster:
       The only existing relationship in the animal kingdom.\r\nPodcaster: One between
-      predator and prey.\r\nHassan: It is different types of person, in fact."
+      predator and prey.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -24082,7 +24103,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 391
   indentLevel: 0
-  text: 'Podcaster: Where do you draw inspiration from?'
+  text: Where do you draw inspiration from?
   description: 
   targetBlock: {fileID: 935292421}
   hideIfVisited: 0
@@ -24215,7 +24236,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 390
   indentLevel: 0
-  text: "Podcaster: What\u2019s your label again?"
+  text: "What\u2019s your label again?"
   description: 
   targetBlock: {fileID: 935292426}
   hideIfVisited: 0
@@ -24359,7 +24380,7 @@ MonoBehaviour:
       It is unnatural for predators to sit idly. \r\nPodcaster: The only existing
       relationship in the animal kingdom.\r\nPodcaster: One between predator and
       prey.\r\nRay: Bring me a hamburger bitch, don\u2019t be a snitch.\r\nRay: Snorting
-      and cruising, you stitch.\r\nRay: I fucked a bitch."
+      and cruising, you stitch.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -24394,6 +24415,466 @@ MonoBehaviour:
   customDescription: 
   fireEvent: 1
   resumeOnLoad: 1
+--- !u!114 &935292432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 453
+  indentLevel: 0
+  storyText: "DrFeldman: We should rid ourselves of the artists as well.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 451
+  indentLevel: 0
+  storyText: "Rafaello: I used to be one of those \u201Cwagies\u201D."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 452
+  indentLevel: 0
+  storyText: 'Oleg: Still less than ruler and clergy.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292435
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 450
+  indentLevel: 0
+  storyText: "Travis: But I\u2019m so very special you old chickenburger."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292436
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 449
+  indentLevel: 0
+  storyText: "Cory: They always do save us in the end.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292437
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 448
+  indentLevel: 0
+  storyText: 'Hutch: Seems you have finally understood the position you are in, boy.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292438
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 447
+  indentLevel: 0
+  storyText: 'Bethany: I remember when you used to steal from your employer.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292439
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 446
+  indentLevel: 0
+  storyText: 'Hassan: It is different types of person, in fact.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292440
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 445
+  indentLevel: 0
+  storyText: 'Ray: I fucked a bitch.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292441
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 444
+  indentLevel: 0
+  storyText: "Rafaello: Yeah, I remembered being on an anti-irradiated royalty protest.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292442
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 443
+  indentLevel: 0
+  storyText: "DrFeldman: \u2026shriveled corpses of unworthy youth littered the streets."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292443
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 442
+  indentLevel: 0
+  storyText: 'Ray: Fool, talking about leisure like you never been on the street!'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292444
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 441
+  indentLevel: 0
+  storyText: 'Cory: Stink of mediocrity with Cory chessebag puffs! Only 5 etherium
+    credits!'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292445
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 440
+  indentLevel: 0
+  storyText: "Travis: My hoodie, my burger, my joint make me a modern god!\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292446
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 439
+  indentLevel: 0
+  storyText: "Bethany: Myself fuses with the mold by reading fashion magazines!\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292447
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 438
+  indentLevel: 0
+  storyText: "Hutch: Wimp ass football sissies such as yourself.\r"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &935292448
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935292074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 437
+  indentLevel: 0
+  storyText: 'Oleg: How do you feel about touching state property, microphone man?'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1002616894
 GameObject:
   m_ObjectHideFlags: 0
