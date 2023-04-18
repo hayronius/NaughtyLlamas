@@ -6508,7 +6508,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 92.80643
     y: 72.150536
-    width: 79.09091
+    width: 78.292694
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6539,11 +6539,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 96.29024, y: -180.90036}
+  scrollPos: {x: -70.83301, y: -230.07167}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 266.7143
-  zoom: 0.54999995
+  zoom: 0.8199998
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -7361,7 +7361,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 66.61911
     y: 202.21422
-    width: 135.81819
+    width: 132.92685
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7618,15 +7618,48 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  storyText: Idiots, weaklings, whiny little babies. Wallowing in despair about their
-    precious rain becoming chemicals, their pitiful rodent subspecies going extinct,
-    tumours growing on their necks! The only way one should survive is not by running
-    away, but by divine intervention! It is your godly right to discard all notions
-    of shame, decency, common good and self-preservation. Only by being chosen and
-    touched by divinity among the festering corpses of the old world will you be
-    able to ascend above mere man. Eat them hamburger wrappers, breathe the air from
-    the exhaust pipe, impale needles upon your flesh instead of sleeping and certainly,
-    your body will handle it just fine.
+  storyText: 'Idiots, weaklings, whiny little babies. Wallowing in despair about
+    their precious rain becoming chemicals,
+
+    {wc}
+
+    their pitiful rodent subspecies
+    going extinct, tumours growing on their necks!
+
+    {wc}
+
+    The only way one
+    should survive is not by running away,
+
+    {wc}
+
+    but by divine intervention!
+    It is your godly right to discard all notions of shame,
+
+    {wc}
+
+    decency,
+    common good and self-preservation.
+
+    {wc}
+
+    Only by being chosen and touched
+    by divinity among the festering corpses of the old world
+
+    {wc}
+
+    will
+    you be able to ascend above mere man.
+
+    {wc}
+
+    Eat them hamburger wrappers,
+    breathe the air from the exhaust pipe, impale needles upon your flesh instead
+    of sleeping
+
+    {wc}
+
+    and certainly, your body will handle it just fine.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7655,7 +7688,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 195.35355
     y: 135.49539
-    width: 92.18182
+    width: 91.95123
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7839,14 +7872,15 @@ MonoBehaviour:
   itemId: 8
   indentLevel: 0
   storyText: "Some ancient master of far eastern origin definitely said something
-    along the lines of \u201Cto be unseen, blend in with the crowd, then strike the
-    enemy and so on\u2026\u201D. Drawing on your twisted childhood memories of American
-    kung fu movies and your burning desire to characterize your average life as extraordinary,
-    you became the true ninja that hides among the sheep. Use as much apps as possible,
-    only shop in big supermarket chains, wear branded clothing, listen to autotuned
-    pop! Forget those nerdy books, those brutish sports, those corny romances, those
-    pretentious paintings, that natural food \u2013 tasteless! Become the superhero
-    conformist you dream of, shed light on yourself as a customer!"
+    along the lines of\n{wc}\n\u201Cto be unseen, blend in with the crowd, then strike
+    the enemy and so on\u2026\u201D.\n{wc}\nDrawing on your twisted childhood memories
+    of American kung fu movies\n{wc}\nand your burning desire to characterize your
+    average life as extraordinary,\n{wc}\nyou became the true ninja that hides among
+    the sheep.\n{wc}\nUse as much apps as possible, only shop in big supermarket
+    chains, wear branded clothing, listen to autotuned pop!\n{wc}\nForget those nerdy
+    books, those brutish sports, those corny romances,\n{wc}\nthose pretentious paintings,
+    that natural food \u2013 tasteless!\n{wc}\nBecome the superhero conformist you
+    dream of, shed light on yourself as a customer!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7875,7 +7909,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 85.92947
     y: 134.06682
-    width: 92.18182
+    width: 90.97562
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8074,15 +8108,15 @@ MonoBehaviour:
   itemId: 5
   indentLevel: 0
   storyText: "Looking at the pictures of hooligans, at their advanced physiques,
-    one can plainly see that these virtuous young men had to possess some sort of
-    advanced training regimen in order to flip those burning cars and cave in the
-    skulls of those unpatriotic bystanders with such ease and grace! {wc}\nThe filthiest
-    brick wall gym, the longest butterfly knife in an alley mugging, the best flat
-    earth theory clearly laid out in a public \u201Ccocaine\u201D toilet and a diet
-    of midnight kebabs. {wc}\nTo outsiders, these seem as barbarisms, but only by
-    embracing the unfiltered hooligan lifestyle can one achieve physical perfection
-    necessary for defending the civilized world against its impending ideological
-    doom."
+    one can plainly see that these virtuous young men\n{wc}\nhad to possess some
+    sort of advanced training regimen in order to flip those burning cars \n{wc}\nand
+    cave in the skulls of those unpatriotic bystanders with such ease and grace!\n{wc}\nThe
+    filthiest brick wall gym, the longest butterfly knife in an alley mugging,\n{wc}\nthe
+    best flat earth theory clearly laid out in a public \u201Ccocaine\u201D toilet
+    and a diet of midnight kebabs.\n{wc}\nTo outsiders, these seem as barbarisms,
+    but only by embracing the unfiltered hooligan lifestyle\n{wc}\ncan one achieve
+    physical perfection necessary for defending the civilized world against its impending
+    ideological doom."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8109,9 +8143,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -16.69349
-    y: 137.64594
-    width: 90.72728
+    x: -34.98618
+    y: 132.76788
+    width: 90.000015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9136,7 +9170,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 485.03156
     y: 367.6973
-    width: 132.90909
+    width: 130.00003
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9207,7 +9241,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 782.88983
     y: 365.3984
-    width: 134.36365
+    width: 131.95123
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9278,7 +9312,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 635.3036
     y: 367.69727
-    width: 134.36365
+    width: 130.97563
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9368,7 +9402,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1196.5983
     y: 453.326
-    width: 166.36365
+    width: 161.21954
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11049,7 +11083,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 433.12527
     y: 196.82529
-    width: 137.27274
+    width: 133.90247
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11257,14 +11291,15 @@ MonoBehaviour:
   itemId: 140
   indentLevel: 0
   storyText: "What if\u2026 and bear with me, most people don\u2019t have complex
-    thoughts, dreams and futures, but are only running on a genetically preprogramed
-    loop that inevitably results in society as we see it today. Some pathetic worm
-    had to lay out all those roads you see, pick up your trash and clean your shit.
-    A handful psychology articles scattered around the globe fit together perfectly,
-    and your understanding of this \u201Coh so horrible\u201D fundamental truth of
-    existence beholds you in creating a new world order in which there is the victor
-    and the worker, and the worker is nothing more than a mindless drone that must
-    prove his worth in order to be allowed to grow old and die."
+    thoughts, dreams and futures,\n{wc}\nbut are only running on a genetically preprogramed
+    loop that inevitably results in society as we see it today.\n{wc}\nSome pathetic
+    worm had to lay out all those roads you see, pick up your trash and clean your
+    shit.\n{wc}\nA handful psychology articles scattered around the globe fit together
+    perfectly,\n{wc}\nand your understanding of this \u201Coh so horrible\u201D fundamental
+    truth of existence beholds you in creating a new world order\n{wc}\nin which
+    there is the victor and the worker,\n{wc}\nand the worker is nothing more than
+    a mindless drone that must prove his worth in order to be allowed to grow old
+    and die."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11293,7 +11328,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 561.9354
     y: 135.95709
-    width: 92.18182
+    width: 90.97562
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11475,15 +11510,45 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 136
   indentLevel: 0
-  storyText: You remember that fated day when you were the odd man out in your elementary
-    school class, neither bully nor bullied, not a jacked up dodgeballer, not a model
-    jumping rope, just sitting in the corner eating your boogers while the world
-    revolved around you. The inactive man notices things, illusions that people try
-    to project about themselves, constructs they self-absorb to make themselves feel
-    better, and the pitiful moment when it all comes crashing down. Your action is
-    refusal of any action, your mantra is whatever, the most beautiful thing is sitting
-    covered in hot chip dust on your couch, thinking of everything you could achieve,
-    and by doing that achieving it all in that moment, as long as the illusion persists.
+  storyText: 'You remember that fated day when you were the odd man out in your elementary
+    school class,
+
+    {wc}
+
+    neither bully nor bullied, not a jacked up dodgeballer,
+    not a model jumping rope,
+
+    {wc}
+
+    just sitting in the corner eating your
+    boogers while the world revolved around you.
+
+    {wc}
+
+    The inactive man
+    notices things, illusions that people try to project about themselves,
+
+    {wc}
+
+    constructs
+    they self-absorb to make themselves feel better, and the pitiful moment when
+    it all comes crashing down.
+
+    {wc}
+
+    Your action is refusal of any action,
+    your mantra is whatever,
+
+    {wc}
+
+    the most beautiful thing is sitting covered
+    in hot chip dust on your couch,
+
+    {wc}
+
+    thinking of everything you could
+    achieve, and by doing that achieving it all in that moment, as long as the illusion
+    persists.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11512,7 +11577,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 449.26273
     y: 137.1749
-    width: 92.18182
+    width: 90.97562
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11695,14 +11760,15 @@ MonoBehaviour:
   itemId: 132
   indentLevel: 0
   storyText: "Look at those dirty and downtrodden societies desperately pushing forth
-    the idea of the common good, only to have their puny members bound by social
-    contracts unable to ask for extra hot sauce and spank passing ass. You have seen
-    true greatness in misplaced quotes from ancient philosophers and generals, dictators
-    with gold toilets, criminals that mashes their opponents into minced meat. True
-    order and civilizational progress can only come from a small minority endlessly
-    exploiting the weak majority, if you shout loud enough \u201CSkin the fuckers
-    for all they are worth!\u201D, maybe you too will breed a new sort of ruthless
-    top dog that will dominate with you as head of the pack."
+    the idea of the common good,\n{wc}\nonly to have their puny members bound by
+    social contracts unable to ask for extra hot sauce and spank passing ass.\n{wc}\nYou
+    have seen true greatness in misplaced quotes from ancient philosophers and generals,
+    dictators with gold toilets,\n{wc}\ncriminals that mashes their opponents into
+    minced meat.\n{wc}\nTrue order and civilizational progress can only come from
+    a small minority endlessly exploiting the weak majority,\n{wc}\nif you shout
+    loud enough \u201CSkin the fuckers for all they are worth!\u201D,\n{wc}\nmaybe
+    you too will breed a new sort of ruthless top dog that will dominate with you
+    as head of the pack."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11731,7 +11797,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 345.16245
     y: 135.53555
-    width: 92.18182
+    width: 91.95123
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11865,7 +11931,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 451.14944
     y: 68.40076
-    width: 80.545456
+    width: 79.2683
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13496,9 +13562,18 @@ MonoBehaviour:
 
     Raised without any boundaries,
     Travis knew that he was destined for great things when he hit his mom and got
-    away with it. Currently spending his days reminiscing of his glory days reminiscing
-    of success at rhythm game leader boards and shouting at his parents for money,
-    this twentysomething prodigy has egomaniacal wisdom to impart upon your viewers.'
+    away with it.
+
+    {wc}
+
+    Currently spending his days reminiscing of his glory
+    days reminiscing of success at rhythm game leader boards
+
+    {wc}
+
+    and shouting
+    at his parents for money, this twentysomething prodigy has egomaniacal wisdom
+    to impart upon your viewers.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13524,194 +13599,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemId: 403
-  indentLevel: 0
-  anyVar:
-    variable: {fileID: 2111011020}
-    data:
-      animatorData:
-        animatorRef: {fileID: 0}
-        animatorVal: {fileID: 0}
-      audioSourceData:
-        audioSourceRef: {fileID: 0}
-        audioSourceVal: {fileID: 0}
-      booleanData:
-        booleanRef: {fileID: 0}
-        booleanVal: 0
-      collectionData:
-        collectionRef: {fileID: 0}
-        collectionVal: {fileID: 0}
-      collider2DData:
-        collider2DRef: {fileID: 0}
-        collider2DVal: {fileID: 0}
-      colliderData:
-        colliderRef: {fileID: 0}
-        colliderVal: {fileID: 0}
-      colorData:
-        colorRef: {fileID: 0}
-        colorVal: {r: 0, g: 0, b: 0, a: 0}
-      floatData:
-        floatRef: {fileID: 0}
-        floatVal: 0
-      gameObjectData:
-        gameObjectRef: {fileID: 0}
-        gameObjectVal: {fileID: 0}
-      integerData:
-        integerRef: {fileID: 0}
-        integerVal: 6
-      materialData:
-        materialRef: {fileID: 0}
-        materialVal: {fileID: 0}
-      matrix4x4Data:
-        matrix4x4Ref: {fileID: 0}
-        matrix4x4Val:
-          e00: 0
-          e01: 0
-          e02: 0
-          e03: 0
-          e10: 0
-          e11: 0
-          e12: 0
-          e13: 0
-          e20: 0
-          e21: 0
-          e22: 0
-          e23: 0
-          e30: 0
-          e31: 0
-          e32: 0
-          e33: 0
-      objectData:
-        objectRef: {fileID: 0}
-        objectVal: {fileID: 0}
-      quaternionData:
-        quaternionRef: {fileID: 0}
-        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
-      rigidbody2DData:
-        rigidbody2DRef: {fileID: 0}
-        rigidbody2DVal: {fileID: 0}
-      rigidbodyData:
-        rigidbodyRef: {fileID: 0}
-        rigidbodyVal: {fileID: 0}
-      spriteData:
-        spriteRef: {fileID: 0}
-        spriteVal: {fileID: 0}
-      stringData:
-        stringRef: {fileID: 0}
-        stringVal: 
-      textureData:
-        textureRef: {fileID: 0}
-        textureVal: {fileID: 0}
-      transformData:
-        transformRef: {fileID: 0}
-        transformVal: {fileID: 0}
-      vector2Data:
-        vector2Ref: {fileID: 0}
-        vector2Val: {x: 0, y: 0}
-      vector3Data:
-        vector3Ref: {fileID: 0}
-        vector3Val: {x: 0, y: 0, z: 0}
-      vector4Data:
-        vector4Ref: {fileID: 0}
-        vector4Val: {x: 0, y: 0, z: 0, w: 0}
-  setOperator: 0
-  variable: {fileID: 0}
-  booleanData:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
-  integerData:
-    integerRef: {fileID: 0}
-    integerVal: 0
-  floatData:
-    floatRef: {fileID: 0}
-    floatVal: 0
-  stringData:
-    stringRef: {fileID: 0}
-    stringVal: 
-  animatorData:
-    animatorRef: {fileID: 0}
-    animatorVal: {fileID: 0}
-  audioSourceData:
-    audioSourceRef: {fileID: 0}
-    audioSourceVal: {fileID: 0}
-  colorData:
-    colorRef: {fileID: 0}
-    colorVal: {r: 0, g: 0, b: 0, a: 0}
-  gameObjectData:
-    gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 0}
-  materialData:
-    materialRef: {fileID: 0}
-    materialVal: {fileID: 0}
-  objectData:
-    objectRef: {fileID: 0}
-    objectVal: {fileID: 0}
-  rigidbody2DData:
-    rigidbody2DRef: {fileID: 0}
-    rigidbody2DVal: {fileID: 0}
-  spriteData:
-    spriteRef: {fileID: 0}
-    spriteVal: {fileID: 0}
-  textureData:
-    textureRef: {fileID: 0}
-    textureVal: {fileID: 0}
-  transformData:
-    transformRef: {fileID: 0}
-    transformVal: {fileID: 0}
-  vector2Data:
-    vector2Ref: {fileID: 0}
-    vector2Val: {x: 0, y: 0}
-  vector3Data:
-    vector3Ref: {fileID: 0}
-    vector3Val: {x: 0, y: 0, z: 0}
---- !u!114 &2111011215
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2111010964}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 402
-  indentLevel: 0
-  storyText: 'Ray, family inheritance rapper
-
-    {wc}
-
-    Growing up in a gated
-    community, Ray failed to grasp the political message of his old school rap idols.
-    His life, slowly filling his discography with songs fetishizing excess wealth
-    and misogyny, he came to believe that the negative response to his artistic endeavours
-    stems not from their lack of quality, but rather from political oppression of
-    the non-binary underground.'
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 0
-  waitForClick: 0
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &2111011216
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2111010964}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 401
   indentLevel: 0
   anyVar:
     variable: {fileID: 2111011020}
@@ -13851,6 +13738,206 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &2111011215
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111010964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 402
+  indentLevel: 0
+  storyText: 'Ray, family inheritance rapper
+
+    {wc}
+
+    Growing up in a gated
+    community, Ray failed to grasp the political message of his old school rap idols.
+
+    {wc}
+
+    His
+    life, slowly filling his discography with songs fetishizing excess wealth and
+    misogyny,
+
+    {wc}
+
+    he came to believe that the negative response to his
+    artistic endeavours stems not from their lack of quality,
+
+    {wc}
+
+    but
+    rather from political oppression of the non-binary underground.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 0
+  waitForClick: 0
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &2111011216
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111010964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 401
+  indentLevel: 0
+  anyVar:
+    variable: {fileID: 2111011020}
+    data:
+      animatorData:
+        animatorRef: {fileID: 0}
+        animatorVal: {fileID: 0}
+      audioSourceData:
+        audioSourceRef: {fileID: 0}
+        audioSourceVal: {fileID: 0}
+      booleanData:
+        booleanRef: {fileID: 0}
+        booleanVal: 0
+      collectionData:
+        collectionRef: {fileID: 0}
+        collectionVal: {fileID: 0}
+      collider2DData:
+        collider2DRef: {fileID: 0}
+        collider2DVal: {fileID: 0}
+      colliderData:
+        colliderRef: {fileID: 0}
+        colliderVal: {fileID: 0}
+      colorData:
+        colorRef: {fileID: 0}
+        colorVal: {r: 0, g: 0, b: 0, a: 0}
+      floatData:
+        floatRef: {fileID: 0}
+        floatVal: 0
+      gameObjectData:
+        gameObjectRef: {fileID: 0}
+        gameObjectVal: {fileID: 0}
+      integerData:
+        integerRef: {fileID: 0}
+        integerVal: 7
+      materialData:
+        materialRef: {fileID: 0}
+        materialVal: {fileID: 0}
+      matrix4x4Data:
+        matrix4x4Ref: {fileID: 0}
+        matrix4x4Val:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0
+          e23: 0
+          e30: 0
+          e31: 0
+          e32: 0
+          e33: 0
+      objectData:
+        objectRef: {fileID: 0}
+        objectVal: {fileID: 0}
+      quaternionData:
+        quaternionRef: {fileID: 0}
+        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
+      rigidbody2DData:
+        rigidbody2DRef: {fileID: 0}
+        rigidbody2DVal: {fileID: 0}
+      rigidbodyData:
+        rigidbodyRef: {fileID: 0}
+        rigidbodyVal: {fileID: 0}
+      spriteData:
+        spriteRef: {fileID: 0}
+        spriteVal: {fileID: 0}
+      stringData:
+        stringRef: {fileID: 0}
+        stringVal: 
+      textureData:
+        textureRef: {fileID: 0}
+        textureVal: {fileID: 0}
+      transformData:
+        transformRef: {fileID: 0}
+        transformVal: {fileID: 0}
+      vector2Data:
+        vector2Ref: {fileID: 0}
+        vector2Val: {x: 0, y: 0}
+      vector3Data:
+        vector3Ref: {fileID: 0}
+        vector3Val: {x: 0, y: 0, z: 0}
+      vector4Data:
+        vector4Ref: {fileID: 0}
+        vector4Val: {x: 0, y: 0, z: 0, w: 0}
+  setOperator: 0
+  variable: {fileID: 0}
+  booleanData:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  integerData:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  floatData:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  stringData:
+    stringRef: {fileID: 0}
+    stringVal: 
+  animatorData:
+    animatorRef: {fileID: 0}
+    animatorVal: {fileID: 0}
+  audioSourceData:
+    audioSourceRef: {fileID: 0}
+    audioSourceVal: {fileID: 0}
+  colorData:
+    colorRef: {fileID: 0}
+    colorVal: {r: 0, g: 0, b: 0, a: 0}
+  gameObjectData:
+    gameObjectRef: {fileID: 0}
+    gameObjectVal: {fileID: 0}
+  materialData:
+    materialRef: {fileID: 0}
+    materialVal: {fileID: 0}
+  objectData:
+    objectRef: {fileID: 0}
+    objectVal: {fileID: 0}
+  rigidbody2DData:
+    rigidbody2DRef: {fileID: 0}
+    rigidbody2DVal: {fileID: 0}
+  spriteData:
+    spriteRef: {fileID: 0}
+    spriteVal: {fileID: 0}
+  textureData:
+    textureRef: {fileID: 0}
+    textureVal: {fileID: 0}
+  transformData:
+    transformRef: {fileID: 0}
+    transformVal: {fileID: 0}
+  vector2Data:
+    vector2Ref: {fileID: 0}
+    vector2Val: {x: 0, y: 0}
+  vector3Data:
+    vector3Ref: {fileID: 0}
+    vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &2111011217
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -13871,8 +13958,20 @@ MonoBehaviour:
 
     After a box of munitions fell
     on his leg during peacetime, Oleg recklessly flaunted his war invalid status
-    and got elected mayor in a village several hundred kilometres from his hometown.
-    Using every possible opportunity to attack sexual minorities in mass media, for
+
+    {wc}
+
+    and
+    got elected mayor in a village several hundred kilometres from his hometown.
+
+    {wc}
+
+    Using
+    every possible opportunity to attack sexual minorities in mass media,
+
+    {wc}
+
+    for
     a large sum of influence you too can have this pillar of civilization grace your
     studio.'
   description: 
@@ -13933,7 +14032,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 4
+        integerVal: 1
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -14054,10 +14153,10 @@ MonoBehaviour:
   itemId: 398
   indentLevel: 0
   storyText: "Hutch, your old gym teacher\n{wc}\nWell, the day finally happened,
-    old Hutch\u2019s brittle bones caved in and he cannot perform his God given duty
-    of imprinting boys and girls with a lifelong hatred of demanding physical movement.
-    A firm believer in the power of might, your platform might be just what Hutch
-    needs to project his worldviews unto others. "
+    old Hutch\u2019s brittle bones caved in and he cannot perform his God given duty\n{wc}\nof
+    imprinting boys and girls with a lifelong hatred of demanding physical movement.\n{wc}\nA
+    firm believer in the power of might, your platform might be just what Hutch needs
+    to project his worldviews unto others. "
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14241,10 +14340,23 @@ MonoBehaviour:
     {wc}
 
     Resonating with
-    a few images he had seen on the internet, Hassan decided to quit his retail job
-    and enter as many pyramid schemes he could with hopes of reaching it to the top.
-    Developing a taste for expensive kitsch, he successfully juggles crippling debt
-    and sending threatening messages to women over social networks. '
+    a few images he had seen on the internet,
+
+    {wc}
+
+    Hassan decided to quit
+    his retail job and enter as many pyramid schemes he could with hopes of reaching
+    it to the top.
+
+    {wc}
+
+    Developing a taste for expensive kitsch, he successfully
+    juggles crippling debt
+
+    {wc}
+
+    and sending threatening messages to women
+    over social networks. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14446,9 +14558,9 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Bethany, your ex-wife\u2019s sixth best friend\n{wc}\nNever having
     enough integrity and dedication to commit to anything, or talent and confidence
-    to simply wing it, Bethany spent her years quietly judging others from the background.
-    In exchange for a little influence, on your platform she sees the opportunity
-    to say whatever she wants on behalf of all women, everywhere."
+    to simply wing it,\n{wc}\nBethany spent her years quietly judging others from
+    the background. In exchange for a little influence,\n{wc}\non your platform she
+    sees the opportunity to say whatever she wants on behalf of all women, everywhere."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14507,7 +14619,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 4
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -14629,7 +14741,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 373.86395
     y: 529.9315
-    width: 128.54547
+    width: 126.09758
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14657,7 +14769,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 752.5117
     y: 530.67865
-    width: 115.45455
+    width: 113.41465
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14683,9 +14795,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 277.59985
-    y: 460.0251
-    width: 118.36364
+    x: 272.7218
+    y: 447.82996
+    width: 116.341484
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14713,7 +14825,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 638.27094
     y: 463.03323
-    width: 128.54547
+    width: 126.09758
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14741,7 +14853,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 453.17126
     y: 463.82846
-    width: 135.81819
+    width: 132.92685
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14769,7 +14881,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 847.937
     y: 461.96826
-    width: 141.63637
+    width: 138.78052
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14824,7 +14936,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1106.4167
     y: 203.66898
-    width: 137.27274
+    width: 134.87807
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15032,14 +15144,47 @@ MonoBehaviour:
   itemId: 319
   indentLevel: 0
   storyText: 'Realistically, for us all, it could not have ended better than it did.
-    You could have always trained yourself, there are plenty of fine gyms around
-    with the most pleasant pop tunes caressing your ears. You could have chosen to
-    invest in stocks, work in currently favourable disciplines as much as you were
-    bodily able, while improving yourself tirelessly to keep up with current trends
-    and old age. With hard work for body and wallet, you could have made yourself
-    a desirable mate for dozens that would have liked you as you are, free to have
-    children and continue the cycle. With all of those obstacles out of the way,
-    maybe you could have found the time to live a little. '
+
+    {wc}
+
+    You
+    could have always trained yourself, there are plenty of fine gyms around
+
+    {wc}
+
+    with
+    the most pleasant pop tunes caressing your ears.
+
+    {wc}
+
+    You could have
+    chosen to invest in stocks,
+
+    {wc}
+
+    work in currently favourable disciplines
+    as much as you were bodily able,
+
+    {wc}
+
+    while improving yourself tirelessly
+    to keep up with current trends and old age.
+
+    {wc}
+
+    With hard work for
+    body and wallet, you could have made yourself a desirable mate
+
+    {wc}
+
+    for
+    dozens that would have liked you as you are, free to have children and continue
+    the cycle.
+
+    {wc}
+
+    With all of those obstacles out of the way, maybe you
+    could have found the time to live a little. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15068,7 +15213,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1228.9532
     y: 143.35957
-    width: 98
+    width: 96.829285
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15250,15 +15395,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 315
   indentLevel: 0
-  storyText: "Finally, you see what a hypocrite you have been all along. Contacting
+  storyText: "Finally, you see what a hypocrite you have been all along.\n{wc}\nContacting
     individuals on your show was not a boon, but a necessity in showing a greater
-    evil \u2013 direct communication with other individuals. Nobody has comforted
-    you like your audience, silently gazing through a screen, and deep down you know
-    that they are just as unsatisfied with their lives and filled with hate as you
-    are. And why should you change that and go against your better judgement? Keep
-    them in their rooms, stuffed with content and sedated with positive feedback.
-    The outside world has long ago turned its back on your kind, and only through
-    ignorance will your flock be free of the horrible fate awaiting us all."
+    evil\n{wc}\n\u2013 direct communication with other individuals.\n{wc}\nNobody
+    has comforted you like your audience, silently gazing through a screen,\n{wc}\nand
+    deep down you know that they are just as unsatisfied with their lives and filled
+    with hate as you are.\n{wc}\nAnd why should you change that and go against your
+    better judgement?\n{wc}\nKeep them in their rooms, stuffed with content and sedated
+    with positive feedback.\n{wc}\nThe outside world has long ago turned its back
+    on your kind,\n{wc}\nand only through ignorance will your flock be free of the
+    horrible fate awaiting us all."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15287,7 +15433,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1122.5541
     y: 144.01907
-    width: 96.545456
+    width: 95.85367
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15469,15 +15615,48 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 311
   indentLevel: 0
-  storyText: Have you heard the pledges? You ask the unwashed hordes, but your voice
-    is only echoed in an empty room. Paying a hamburger delivered to your door by
-    a drone in rates, and paying a subscription fee to rent a movie whose LED billboard
-    has been shining a light through your bedroom for the past few months, you are
-    truly happy to be alive in this world. What would you be without such giants
-    inventing unprecedented necessities for the human race? What is slow reform when
-    compared to a swift charity? What is a policy enacted when compared to an unregulated
-    economic decision impacting the entire globe? You have seen the world spirit,
-    and he wants to fill your soda cup.
+  storyText: 'Have you heard the pledges?
+
+    {wc}
+
+    You ask the unwashed hordes,
+    but your voice is only echoed in an empty room.
+
+    {wc}
+
+    Paying a hamburger
+    delivered to your door by a drone in rates, and paying a subscription fee to
+    rent a movie
+
+    {wc}
+
+    whose LED billboard has been shining a light through
+    your bedroom for the past few months,
+
+    {wc}
+
+    you are truly happy to be
+    alive in this world.
+
+    {wc}
+
+    What would you be without such giants inventing
+    unprecedented necessities for the human race?
+
+    {wc}
+
+    What is slow reform
+    when compared to a swift charity?
+
+    {wc}
+
+    What is a policy enacted when
+    compared to an unregulated economic decision impacting the entire globe?
+
+    {wc}
+
+    You
+    have seen the world spirit, and he wants to fill your soda cup.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -15506,7 +15685,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1015.5964
     y: 142.37976
-    width: 98
+    width: 97.804886
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15640,7 +15819,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1126.3639
     y: 75.244865
-    width: 80.545456
+    width: 80.24391
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16624,7 +16803,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 771.2145
     y: 203.37361
-    width: 137.27274
+    width: 134.87807
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16832,14 +17011,14 @@ MonoBehaviour:
   itemId: 270
   indentLevel: 0
   storyText: "Aren\u2019t you sick of the vomit inducing skin being flaunted at you
-    in quiz shows for the elderly, bakery queues and toothpaste ads? Did you ever
-    stop and wonder that the feelings incited within you are not merely a by-product
-    of unrestricted animalistic desire but rather, a carefully convoluted charm being
-    passed onto generations of women from the darkness of torture dungeons from the
-    middle ages?  So called experts have dedicated decades to unsuccessfully try
-    and utilize humanities to solve complex issues of human attraction, completely
-    forgetting about the existence of the supernatural! Light the pyres onto a conspiracy
-    that envelops men since time immemorial!"
+    in quiz shows for the elderly,\n{wc}\nbakery queues and toothpaste ads?\n{wc}\nDid
+    you ever stop and wonder that the feelings incited within you\n{wc}\nare not
+    merely a by-product of unrestricted animalistic desire but rather,\n{wc}\na carefully
+    convoluted charm being passed onto generations of women\n{wc}\nfrom the darkness
+    of torture dungeons from the middle ages?\n{wc}\nSo called experts have dedicated
+    decades to unsuccessfully try and utilize humanities to solve complex issues\n{wc}\nof
+    human attraction, completely forgetting about the existence of the supernatural!
+    \n{wc}\nLight the pyres onto a conspiracy that envelops men since time immemorial!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -16868,7 +17047,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 891.4526
     y: 145.36266
-    width: 92.18182
+    width: 90.97562
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17050,15 +17229,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 266
   indentLevel: 0
-  storyText: "The sexual marketplace\u2026 An embarrassing heap of those that have
-    dared to stray far away from the creator\u2019s grasp, perfecting their lying
-    masks within anxiety-inducing, irrelevant places such as bars, concert halls,
-    parks and so forth. A stain on the perfect image of man as well as the economy,
-    these embarrassing specimen of human misery pollute our lives with their endless
-    social chattering, perfumes, and apish courtship gestures, while they miss the
-    main point\u2026 spreading one\u2019s seed as far and wide as humanly possible!
-    Be the Genghis Khan you were meant to be, lie on your sperm donor card \u2013
-    be an astronaut, an athlete, a father!"
+  storyText: "The sexual marketplace\u2026 \n{wc}\nAn embarrassing heap of those
+    that have dared to stray far away from the creator\u2019s grasp,\n{wc}\nperfecting
+    their lying masks within anxiety-inducing, irrelevant places such as bars, concert
+    halls, parks and so forth.\n{wc}\nA stain on the perfect image of man as well
+    as the economy, these embarrassing specimen of human misery\n{wc}\npollute our
+    lives with their endless social chattering, perfumes, and apish courtship gestures,\n{wc}\nwhile
+    they miss the main point\u2026\n{wc}\nspreading one\u2019s seed as far and wide
+    as humanly possible!\n{wc}\nBe the Genghis Khan you were meant to be, lie on
+    your sperm donor card \u2013 be an astronaut, an athlete, a father!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17087,7 +17266,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 787.35187
     y: 143.72331
-    width: 92.18182
+    width: 90.97562
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17269,15 +17448,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 262
   indentLevel: 0
-  storyText: "The sight of an unbruised female body repulses you, disobedient wenches
-    who do not adhere to your standards of beauty make you cough up the bagel. Little
+  storyText: "The sight of an unbruised female body repulses you,\n{wc}\ndisobedient
+    wenches who do not adhere to your standards of beauty make you cough up the bagel.\n{wc}\nLittle
     do they know that modern society was built from ancient society which did not
-    regard man as drooling monkey, but man as victorious crab. Behold the horseshoe
-    crab, staying the same for several millennia, fucking in piles! You can imagine
-    yourself atop such a pile, impregnating a bunch of crabs under your feet, pissing
-    on the skulls of less worthy men. The thought makes your head throb with delight,
-    if only you had it before your divorce, you could\u2019ve easily shown your ex-wife
-    the true natural order, willingly or not."
+    regard man as drooling monkey,\n{wc}\nbut man as victorious crab.\n{wc}\nBehold
+    the horseshoe crab, staying the same for several millennia, fucking in piles!\n{wc}\nYou
+    can imagine yourself atop such a pile, impregnating a bunch of crabs under your
+    feet,\n{wc}\npissing on the skulls of less worthy men.\n{wc}\nThe thought makes
+    your head throb with delight, if only you had it before your divorce,\n{wc}\nyou
+    could\u2019ve easily shown your ex-wife the true natural order, willingly or
+    not."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17306,7 +17486,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 681.62524
     y: 142.08397
-    width: 92.18182
+    width: 90.97562
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17440,7 +17620,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 791.1617
     y: 74.94957
-    width: 80.545456
+    width: 80.24391
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23309,7 +23489,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 579.0171
     y: -71.262405
-    width: 106.72728
+    width: 104.634155
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26205,7 +26385,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 463.83344
     y: 280.60413
-    width: 163.45456
+    width: 159.26831
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28357,7 +28537,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 644.2984
     y: 278.27853
-    width: 164.9091
+    width: 160.24393
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31982,10 +32162,10 @@ MonoBehaviour:
   itemId: 756
   indentLevel: 0
   storyText: "Rafaello, embittered ex-activist\n{wc}\nMeeting Rafaello on your previous
-    profession, you could not help but notice how he pushed progressive ideas forward
-    whenever there seemed to be something to gain from it. Unfortunately, not achieving
-    the grandeur he hoped for, you firmly believe that he will hang his old Che Guevara
-    t-shirt for just a little influence\u2026"
+    profession, you could not help but notice how he pushed progressive ideas forward\n{wc}\nwhenever
+    there seemed to be something to gain from it.\n{wc}\nUnfortunately, not achieving
+    the grandeur he hoped for,\n{wc}\nyou firmly believe that he will hang his old
+    Che Guevara t-shirt for just a little influence\u2026"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32166,7 +32346,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 663.7381
     y: 603.7453
-    width: 137.27274
+    width: 133.90247
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32198,9 +32378,22 @@ MonoBehaviour:
 
     Dedicating her youth
     to superficially reading Indological literature and discussing it with cultist
-    mystics, through the power of charm and a really loud voice Dr. Feldman has succeeded
-    to slip through the cracks of academia and earn her name a most esteemed prefix.
-    However, since then nobody took her seriously anymore, until you came along.'
+    mystics,
+
+    {wc}
+
+    through the power of charm and a really loud voice Dr.
+    Feldman has succeeded to slip through the cracks of academia
+
+    {wc}
+
+    and
+    earn her name a most esteemed prefix.
+
+    {wc}
+
+    However, since then nobody
+    took her seriously anymore, until you came along.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32381,7 +32574,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 467.40137
     y: 602.96564
-    width: 153.27274
+    width: 148.53662
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32413,9 +32606,22 @@ MonoBehaviour:
 
     Accepting boredom as a part of
     everyday life, Cory successfully managed until adulthood filling the overgrowing
-    void within with as much corporate tech and merch he could. Devoid of all imagination,
-    he is unable to imagine a different world, and has the capacity to turn feral
-    and do piledrivers if somebody tries to shake his conformist lifestyle.'
+    void
+
+    {wc}
+
+    within with as much corporate tech and merch he could.
+
+    {wc}
+
+    Devoid
+    of all imagination, he is unable to imagine a different world,
+
+    {wc}
+
+    and
+    has the capacity to turn feral and do piledrivers if somebody tries to shake
+    his conformist lifestyle.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -32474,7 +32680,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 7
+        integerVal: 6
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -32595,8 +32801,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 578.3074
-    y: 526.38947
-    width: 121.272736
+    y: 527.60895
+    width: 118.2927
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
