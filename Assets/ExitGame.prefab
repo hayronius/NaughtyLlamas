@@ -147,6 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76600c39ce80ce944898922e3e9f80b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Confirmation: {fileID: 4314100451033675091}
 --- !u!1 &2351231497359327879
 GameObject:
   m_ObjectHideFlags: 0
@@ -407,7 +408,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 4314100450006846346}
         m_TargetAssemblyTypeName: QuitButtonScript, Assembly-CSharp
-        m_MethodName: QuitGame
+        m_MethodName: HideConfirmation
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -429,6 +430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76600c39ce80ce944898922e3e9f80b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Confirmation: {fileID: 0}
 --- !u!1 &4314100450333602940
 GameObject:
   m_ObjectHideFlags: 0
@@ -554,7 +556,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 4314100450333602942}
         m_TargetAssemblyTypeName: QuitButtonScript, Assembly-CSharp
-        m_MethodName: QuitGame
+        m_MethodName: ShowConfirmation
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -576,6 +578,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76600c39ce80ce944898922e3e9f80b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Confirmation: {fileID: 4314100451033675091}
 --- !u!1 &4314100450501312197
 GameObject:
   m_ObjectHideFlags: 0
