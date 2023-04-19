@@ -885,7 +885,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  key: psy
+  key: psyc
   variable: {fileID: 1705216276}
 --- !u!114 &1705216274
 MonoBehaviour:
@@ -930,7 +930,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scope: 0
-  key: psy
+  key: psyc
   value: 0
 --- !u!114 &1705216277
 MonoBehaviour:
