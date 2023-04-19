@@ -6554,11 +6554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-<<<<<<< HEAD
-  scrollPos: {x: -63.735615, y: 238.58127}
-=======
   scrollPos: {x: -292.99063, y: -93.42097}
->>>>>>> b1679dbd512bf3437c20c97ba8b87b97164985af
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 266.7143
