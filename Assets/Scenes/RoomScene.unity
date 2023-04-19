@@ -6635,7 +6635,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 585.3827, y: 420.72534}
+  scrollPos: {x: 176.55917, y: 14.842982}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 266.7143
@@ -6647,9 +6647,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 2111011616}
-  selectedCommands:
-  - {fileID: 2111011615}
+  - {fileID: 2111011254}
+  selectedCommands: []
   variables:
   - {fileID: 2111010983}
   - {fileID: 2111011020}
@@ -39208,7 +39207,7 @@ MonoBehaviour:
   resumeOnLoad: 1
 --- !u!114 &2111011615
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -39253,7 +39252,7 @@ MonoBehaviour:
   suppressAllAutoSelections: 0
 --- !u!114 &2111011617
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
