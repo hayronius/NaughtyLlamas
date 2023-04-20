@@ -430,7 +430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76600c39ce80ce944898922e3e9f80b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Confirmation: {fileID: 0}
+  Confirmation: {fileID: 4314100451033675091}
 --- !u!1 &4314100450333602940
 GameObject:
   m_ObjectHideFlags: 0
@@ -469,7 +469,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 381.89032, y: 227.10222}
+  m_AnchoredPosition: {x: 381.89032, y: 216.4}
   m_SizeDelta: {x: 44.1, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4314100450333602915
@@ -602,7 +602,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4314100450501312197}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 91.14234, y: -71.01088, z: -8.216519}
   m_LocalScale: {x: 2.1180365, y: 2.1180365, z: 2.1180365}
   m_ConstrainProportionsScale: 0
@@ -759,7 +759,7 @@ GameObject:
   - component: {fileID: 4314100451033675092}
   - component: {fileID: 4314100451033675093}
   m_Layer: 5
-  m_Name: ConfirmationBG
+  m_Name: Confirmation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -892,10 +892,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: X
+  m_text: i
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 7062da1c65a33074e882e6dcd4dd17e6, type: 2}
-  m_sharedMaterial: {fileID: -3301946262841513276, guid: 7062da1c65a33074e882e6dcd4dd17e6, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: dd25ad0d8eaf98144991106b4fdd2d95, type: 2}
+  m_sharedMaterial: {fileID: 1329153888117254751, guid: dd25ad0d8eaf98144991106b4fdd2d95, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -919,8 +919,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 35
+  m_fontSizeBase: 35
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

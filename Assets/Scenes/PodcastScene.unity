@@ -577,11 +577,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3295981679421852638, guid: 71ef1498e75a90d48b90dc813c70358e, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 160
+      value: 15.7
       objectReference: {fileID: 0}
     - target: {fileID: 3295981679421852638, guid: 71ef1498e75a90d48b90dc813c70358e, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 30
+      value: 14.9
       objectReference: {fileID: 0}
     - target: {fileID: 3295981679421852638, guid: 71ef1498e75a90d48b90dc813c70358e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -613,11 +613,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3295981679421852638, guid: 71ef1498e75a90d48b90dc813c70358e, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1759.2622
+      value: 1753
       objectReference: {fileID: 0}
     - target: {fileID: 3295981679421852638, guid: 71ef1498e75a90d48b90dc813c70358e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -30.138325
+      value: -48
       objectReference: {fileID: 0}
     - target: {fileID: 3295981679421852638, guid: 71ef1498e75a90d48b90dc813c70358e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1196,7 +1196,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 133.45454
     y: 70.36364
-    width: 184.69385
+    width: 181.42854
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1344,7 +1344,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 325367960}
   selectedCommands:
-  - {fileID: 325368073}
+  - {fileID: 325368004}
   variables:
   - {fileID: 325367991}
   - {fileID: 325367990}
@@ -14925,7 +14925,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: Travis
+  nameText: Cory
   nameColor: {r: 0.6415094, g: 0.1910695, b: 0.44065505, a: 1}
   soundEffect: {fileID: 0}
   portraits:
@@ -15868,7 +15868,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 166.32362
     y: 532.79065
-    width: 73.52941
+    width: 74.72727
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15896,20 +15896,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
       And our very first special guest is\u2026\r\n\r\nPodcaster: Hutch, a testament
-      to prevalence of man over time!\r\nHutch Normal Right: You were always a disappointment.\r\nPodcaster:
-      And today\u2019s topic concerns us all \u2013 training, health and exercise!\r\nPodcaster:
-      Have you unsuccessfully tried to get yourself in shape?\r\nPodcaster: Maybe
-      you have only tried methods in civilized environments?\r\nPodcaster: What you
-      need is to remove your civilizational shackles.\r\nPodcaster: Engage in hooligan
-      activities, catcalling parkour, a manly diet!\r\nPodcaster: Become one of the
-      people who \u201Coppressed\u201D, \u201Cmugged\u201D, \u201Cdisturbed\u201D
-      you.\r\nPodcaster: Those are all weak words of the old you!\r\nPodcaster: Change
-      thy perspective! Do you want to be such a loser all your life?\r\nPodcaster:
-      Go out wrecking shit, and soon enough you will notice your physique and general
-      mental wellbeing improve.\r\nHutch: Remember \u2013 beat up the degenerates!\r\nPodcaster:
-      Who exactly are the degenerates?\r"
+      to prevalence of man over time!\r\n\nHutch Normal Right: You were always a
+      disappointment.\r\n\nPodcaster: And today\u2019s topic concerns us all \u2013
+      training, health and exercise!\r\n\nPodcaster: Have you unsuccessfully tried
+      to get yourself in shape?\r\n\nPodcaster: Maybe you have only tried methods
+      in civilized environments?\r\n\nPodcaster: What you need is to remove your
+      civilizational shackles.\r\n\nPodcaster: Engage in hooligan activities, catcalling
+      parkour, a manly diet!\r\n\nPodcaster: Become one of the people who \u201Coppressed\u201D,
+      \u201Cmugged\u201D, \u201Cdisturbed\u201D you.\r\n\nPodcaster: Those are all
+      weak words of the old you!\r\n\nPodcaster: Change thy perspective! Do you want
+      to be such a loser all your life?\r\n\nPodcaster: Go out wrecking shit, and
+      soon enough you will notice your physique and general mental wellbeing improve.\r\n\nHutch:
+      Remember \u2013 beat up the degenerates!\r\n\nPodcaster: Who exactly are the
+      degenerates?\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -15936,9 +15937,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -184.44754
+    x: -183.44754
     y: -333.31445
-    width: 112.184875
+    width: 114
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15969,20 +15970,20 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Podcaster: Hassan, a guru of transactions, such as finance and love!\r\nHassan
-      Normal Right: Rent an apartment, collect in sex!\r\nPodcaster: And today\u2019s
-      topic concerns us all \u2013 training, health and exercise!\r\nPodcaster: Have
-      you unsuccessfully tried to get yourself in shape?\r\nPodcaster: Maybe you
-      have only tried methods in civilized environments?\r\nPodcaster: What you need
-      is to remove your civilizational shackles.\r\nPodcaster: Engage in hooligan
-      activities, catcalling parkour, a manly diet!\r\nPodcaster: Become one of the
-      people who \u201Coppressed\u201D, \u201Cmugged\u201D, \u201Cdisturbed\u201D
-      you.\r\nPodcaster: Those are all weak words of the old you!\r\nPodcaster: Change
-      thy perspective! Do you want to be such a loser all your life?\r\nPodcaster:
+    stringVal: "Podcaster: Hassan, a guru of transactions, such as finance and love!\r\n\nHassan
+      Normal Right: Rent an apartment, collect in sex!\r\n\nPodcaster: And today\u2019s
+      topic concerns us all \u2013 training, health and exercise!\r\n\nPodcaster:
+      Have you unsuccessfully tried to get yourself in shape?\r\n\nPodcaster: Maybe
+      you have only tried methods in civilized environments?\r\n\nPodcaster: What
+      you need is to remove your civilizational shackles.\r\n\nPodcaster: Engage
+      in hooligan activities, catcalling parkour, a manly diet!\r\n\nPodcaster: Become
+      one of the people who \u201Coppressed\u201D, \u201Cmugged\u201D, \u201Cdisturbed\u201D
+      you.\r\n\nPodcaster: Those are all weak words of the old you!\r\n\nPodcaster:
+      Change thy perspective! Do you want to be such a loser all your life?\r\n\nPodcaster:
       Go out wrecking shit, and soon enough you will notice your physique and general
-      mental wellbeing improve.\r\nHassan: Remember \u2013 it\u2019s legal if they
-      don\u2019t catch you!\r\nPodcaster: Hassan, did you ever engage in some good
-      old hooliganism?\r\n\n"
+      mental wellbeing improve.\r\n\nHassan: Remember \u2013 it\u2019s legal if they
+      don\u2019t catch you!\r\n\nPodcaster: Hassan, did you ever engage in some good
+      old hooliganism?\r\n"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -16009,9 +16010,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -548.8405
-    y: -320.7658
-    width: 122.268906
+    x: -547.02234
+    y: -318.94763
+    width: 121.27273
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16044,19 +16045,19 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
       And our very first special guest is\u2026\r\n\nPodcaster: Oleg, a renowned
-      warrior and fighter for human rights!\r\nOleg Normal Right: We do not respect
-      our forefathers anymore!\r\nPodcaster: And today\u2019s topic concerns us all
-      \u2013 training, health and exercise!\r\nPodcaster: Have you unsuccessfully
-      tried to get yourself in shape?\r\nPodcaster: Maybe you have only tried methods
-      in civilized environments?\r\nPodcaster: What you need is to remove your civilizational
-      shackles.\r\nPodcaster: Engage in hooligan activities, catcalling parkour,
-      a manly diet!\r\nPodcaster: Become one of the people who \u201Coppressed\u201D,
-      \u201Cmugged\u201D, \u201Cdisturbed\u201D you.\r\nPodcaster: Those are all
-      weak words of the old you!\r\nPodcaster: Change thy perspective! Do you want
-      to be such a loser all your life?\r\nPodcaster: Go out wrecking shit, and soon
-      enough you will notice your physique and general mental wellbeing improve.\r\nOleg:
+      warrior and fighter for human rights!\r\n\nOleg Normal Right: We do not respect
+      our forefathers anymore!\n\r\nPodcaster: And today\u2019s topic concerns us
+      all \u2013 training, health and exercise!\r\n\nPodcaster: Have you unsuccessfully
+      tried to get yourself in shape?\r\n\nPodcaster: Maybe you have only tried methods
+      in civilized environments?\r\n\nPodcaster: What you need is to remove your
+      civilizational shackles.\r\n\nPodcaster: Engage in hooligan activities, catcalling
+      parkour, a manly diet!\r\n\nPodcaster: Become one of the people who \u201Coppressed\u201D,
+      \u201Cmugged\u201D, \u201Cdisturbed\u201D you.\r\n\nPodcaster: Those are all
+      weak words of the old you!\r\n\nPodcaster: Change thy perspective! Do you want
+      to be such a loser all your life?\r\n\nPodcaster: Go out wrecking shit, and
+      soon enough you will notice your physique and general mental wellbeing improve.\r\n\nOleg:
       But remember \u2013 no touching state property.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -16086,7 +16087,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -835.38763
     y: -316.72128
-    width: 105.46218
+    width: 105.27273
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16114,19 +16115,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 199.70627, y: 570.8024}
+  scrollPos: {x: 529.9273, y: 588.9087}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 404.8
-  zoom: 0.34
+  blockViewHeight: 400
+  zoom: 0.55
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 935292393}
+  selectedCommands:
+  - {fileID: 935292399}
   variables: []
   description: 
   stepPause: 0
@@ -16169,7 +16172,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -183.49211
     y: 201.09377
-    width: 127.31092
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16202,7 +16205,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -554.95306
     y: 183.46254
-    width: 140.7563
+    width: 144.54546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16233,7 +16236,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -851.7737
     y: 181.09366
-    width: 103.78151
+    width: 105.27273
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16264,7 +16267,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.38327
     y: -75.16344
-    width: 105.46218
+    width: 108.18182
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16294,8 +16297,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -542.4256
-    y: -82.79463
-    width: 115.54622
+    y: -84.612816
+    width: 116.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16326,7 +16329,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -840.67505
     y: -82.30628
-    width: 125.63025
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16407,7 +16410,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2022.3682
     y: 301.93918
-    width: 135.71428
+    width: 138.72726
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16485,7 +16488,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1875.5098
     y: 305.73666
-    width: 134.0336
+    width: 137.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16563,7 +16566,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1730.1178
     y: 301.93918
-    width: 134.0336
+    width: 135.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16641,7 +16644,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2039.7933
     y: 221.39633
-    width: 135.71428
+    width: 137.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16719,7 +16722,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1890.8942
     y: 225.19379
-    width: 134.0336
+    width: 135.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16797,7 +16800,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1745.5023
     y: 221.39633
-    width: 134.0336
+    width: 134.36365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16875,7 +16878,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2039.7028
     y: 131.35112
-    width: 135.71428
+    width: 140.18182
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16953,7 +16956,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1890.8036
     y: 135.1486
-    width: 134.0336
+    width: 138.72726
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17031,7 +17034,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1745.4117
     y: 131.35112
-    width: 134.0336
+    width: 137.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17109,7 +17112,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1502.3663
     y: 308.3908
-    width: 128.9916
+    width: 132.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17187,7 +17190,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1355.5084
     y: 312.1883
-    width: 127.31092
+    width: 131.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17265,7 +17268,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1210.1167
     y: 308.3908
-    width: 127.31092
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17343,7 +17346,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1519.7917
     y: 227.84793
-    width: 128.9916
+    width: 132.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17421,7 +17424,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1370.8928
     y: 231.64539
-    width: 127.31092
+    width: 131.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17499,7 +17502,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1225.5011
     y: 227.84793
-    width: 134.0336
+    width: 135.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17577,7 +17580,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1519.7012
     y: 137.8027
-    width: 128.9916
+    width: 132.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17655,7 +17658,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1370.8022
     y: 141.60017
-    width: 127.31092
+    width: 131.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17733,7 +17736,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1225.4105
     y: 137.8027
-    width: 127.31092
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17761,7 +17764,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 600.408
     y: 96.99582
-    width: 127.31092
+    width: 131.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17792,7 +17795,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 337.2005
     y: 125.87244
-    width: 107.14285
+    width: 109.63637
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17823,7 +17826,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 56.636093
     y: 122.57266
-    width: 140.7563
+    width: 146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17854,7 +17857,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 601.9955
     y: -129.4078
-    width: 115.54622
+    width: 118.36364
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17885,7 +17888,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 350.4129
     y: -115.40621
-    width: 105.46218
+    width: 109.63637
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17916,7 +17919,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 85.31737
     y: -138.29121
-    width: 112.184875
+    width: 116.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17947,7 +17950,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 597.1248
     y: -345.06772
-    width: 125.63025
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17978,7 +17981,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 331.101
     y: -348.6063
-    width: 122.268906
+    width: 122.72727
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18009,7 +18012,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 97.061066
     y: -345.1497
-    width: 102.10084
+    width: 103.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18097,7 +18100,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1245.7454
     y: -337.3623
-    width: 152.521
+    width: 153.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18257,7 +18260,7 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Hassan: Stop cancelling me.\r\nPodcaster: Sorry.\r\nHassan: Don\u2019t
+    stringVal: "Hassan: Stop cancelling me.\r\n\nPodcaster: Sorry.\r\n\nHassan: Don\u2019t
       apologize, wolf.\r\n"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -18287,7 +18290,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -573.66815
     y: -242.78973
-    width: 164.2857
+    width: 166.36365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18337,9 +18340,9 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Podcaster: Dear listeners, I hope you have understood this truth.\r\nPodcaster:
-      Only a pathetic reject wouldn\u2019t.\r\nPodcaster: Be the reason the weaker
-      is unsafe.\r\nPodcaster: And tune in next time!\r\n\nOleg hide:\nHutch hide:\nHassan
+    stringVal: "Podcaster: Dear listeners, I hope you have understood this truth.\r\n\nPodcaster:
+      Only a pathetic reject wouldn\u2019t.\r\n\nPodcaster: Be the reason the weaker
+      is unsafe.\r\n\nPodcaster: And tune in next time!\r\n\nOleg hide:\nHutch hide:\nHassan
       hide:\nHost hide:"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -18369,7 +18372,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -541.6658
     y: -163.92805
-    width: 123.94958
+    width: 125.63636
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18427,9 +18430,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -572.66876
-    y: -284.65717
-    width: 164.2857
+    x: -571.66876
+    y: -281.65717
+    width: 164.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18511,7 +18514,7 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
       And our very first special guest is\u2026\r"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -18576,7 +18579,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1250.7437
     y: -183.10104
-    width: 171.00839
+    width: 175.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18628,7 +18631,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -853.9368
     y: -247.52702
-    width: 147.47899
+    width: 150.36365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18679,6 +18682,7 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: 'Oleg: The current government are corrupt globalist spies.
+
 
       Oleg:
       Action should be taken only for projects financed by outside lobbies.'
@@ -18757,7 +18761,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -854.5407
     y: -280.32904
-    width: 147.47899
+    width: 148.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18880,7 +18884,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -212.73364
     y: -257.67972
-    width: 154.20168
+    width: 159.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19031,7 +19035,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -214.88737
     y: -295.21408
-    width: 154.20168
+    width: 157.63635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19179,7 +19183,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -191.4571
     y: 270.97568
-    width: 169.32773
+    width: 175.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19227,9 +19231,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -551.4564
+    x: -553.2746
     y: 333.83264
-    width: 125.63025
+    width: 128.54546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19280,10 +19284,10 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster: Dear listeners, I hope that after today\u2019s podcast
-      you will change your environment.\r\nPodcaster: Remember, a lack of trash is
-      a lack of soul, body and spirit.\r\nPodcaster: This week\u2019s episode sponsored
-      by plastic bags united.\r\nPodcaster: And tune in next time!\r\n\r\nRay hide:\r\nDrFeldman
-      hide:\nRafaello hide:\nHost hide:"
+      you will change your environment.\r\n\nPodcaster: Remember, a lack of trash
+      is a lack of soul, body and spirit.\r\n\nPodcaster: This week\u2019s episode
+      sponsored by plastic bags united.\r\n\nPodcaster: And tune in next time!\r\n\r\nRay
+      hide:\r\nDrFeldman hide:\nRafaello hide:\nHost hide:"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -19334,9 +19338,9 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Rafeallo: Yeah, the madmen threw yoghurt at the queen.\r\nRafaello:
-      Because they couldn\u2019t breathe through the smog in their town\u2026\r\nRafaello:
-      Or some similar extremist excuse.\r\nPodcaster: Degenerates."
+    stringVal: "Rafeallo: Yeah, the madmen threw yoghurt at the queen.\r\n\nRafaello:
+      Because they couldn\u2019t breathe through the smog in their town\u2026\r\n\nRafaello:
+      Or some similar extremist excuse.\r\n\nPodcaster: Degenerates."
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -19412,7 +19416,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -198.6
     y: 235.26106
-    width: 169.32773
+    width: 173.63635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19462,8 +19466,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Rafaello: You know what, irradiated royalty ain\u2019t that bad.\r\nRafaello:
-      Sure they require the flesh of the weak to sustain the rotten monarchy.\r\nRafello:
+    stringVal: "Rafaello: You know what, irradiated royalty ain\u2019t that bad.\r\n\nRafaello:
+      Sure they require the flesh of the weak to sustain the rotten monarchy.\r\n\nRafello:
       But at least somebody\u2019s having a good time."
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -19516,21 +19520,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our very first special guest is\u2026\r\nPodcaster: Rafaello, a poor soul
-      escaping the post socialism wave!\r\nRafaello Normal Right: ...\r\nPodcaster:
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our very first special guest is\u2026\r\n\nPodcaster: Rafaello, a poor
+      soul escaping the post socialism wave!\r\n\nRafaello Normal Right: ...\r\n\nPodcaster:
       Today\u2019s topic takes a critical step back to evaluate so called \u201Chealth
-      culture\u201D.\r\nPodcaster: Apple a day, eat your greens, take the stairs,
-      floss the teeth\u2026\r\nPodcaster: All man-made barriers designed to produce
-      a generation of weak men and infertile women!\r\nPodcaster: Ever smelt that
-      beautiful air of the first industrial revolution?\r\nPodcaster: You are only
-      here because your ancestor snorted that pollution!\r\nPodcaster: Ate stews
-      composed entirely of leftover skin for brunch!\r\nPodcaster: Moved an inch
-      only if it was required by labour!\r\nPodcaster: Tried as hard as he could
-      to get to the divine image of leisurely kings!\r\nPodcaster: Indulge in excess
-      so much it becomes amoral, become royalty!\r\nPodcaster: Let your muscles wither
-      away, your soul fall apart!\r\nPodcaster: In the new world, we need only men
-      capable of surviving radiation!\r"
+      culture\u201D.\r\n\nPodcaster: Apple a day, eat your greens, take the stairs,
+      floss the teeth\u2026\r\n\nPodcaster: All man-made barriers designed to produce
+      a generation of weak men and infertile women!\r\n\nPodcaster: Ever smelt that
+      beautiful air of the first industrial revolution?\r\n\nPodcaster: You are only
+      here because your ancestor snorted that pollution!\r\n\nPodcaster: Ate stews
+      composed entirely of leftover skin for brunch!\r\n\nPodcaster: Moved an inch
+      only if it was required by labour!\r\n\nPodcaster: Tried as hard as he could
+      to get to the divine image of leisurely kings!\r\n\nPodcaster: Indulge in excess
+      so much it becomes amoral, become royalty!\r\n\nPodcaster: Let your muscles
+      wither away, your soul fall apart!\r\n\nPodcaster: In the new world, we need
+      only men capable of surviving radiation!\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -19606,7 +19610,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -584.3144
     y: 255.26114
-    width: 182.7731
+    width: 189.63637
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19656,9 +19660,9 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "DrFeldman: Easily, all nutritious substances must come from vending
-      machines.\r\nDrFeldman: And tiny tots should not waste the wrapper\u2026\r\nDrFeldman:
-      They should eat the whole thing\u2026"
+    stringVal: "Dr. Feldman: Easily, all nutritious substances must come from vending
+      machines.\r\n\nDr. Feldman: And tiny tots should not waste the wrapper\u2026\r\n\nDr.
+      Feldman: They should eat the whole thing\u2026"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -19734,7 +19738,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -581.4573
     y: 219.54669
-    width: 182.7731
+    width: 188.18182
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19784,9 +19788,9 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "DrFeldman: \u201COn ancient Mayan marketplace arena rituals\u201D.\r\nDrFelmdan:
-      2013.-2015.\r\nDrFeldman: 15 pages long article.\r\nDrFeldman: Written by Dr.
-      Felman."
+    stringVal: "Dr. Feldman: \u201COn ancient Mayan marketplace arena rituals\u201D.\r\n\nDr.
+      Feldman: 2013.-2015.\r\n\nDr. Feldman: 15 pages long article.\r\n\nDrFeldman:
+      Written by Dr. Felman."
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -19838,21 +19842,22 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our very first special guest is\u2026\r\nPodcaster: Dr. Feldman, notoriously
-      distinguished academic!\r\nDrFeldman Normal Right: ...\r\nPodcaster: Today\u2019s
-      topic takes a critical step back to evaluate so called \u201Chealth culture\u201D.\r\nPodcaster:
-      Apple a day, eat your greens, take the stairs, floss the teeth\u2026\r\nPodcaster:
-      All man-made barriers designed to produce a generation of weak men and infertile
-      women!\r\nPodcaster: Ever smelt that beautiful air of the first industrial
-      revolution?\r\nPodcaster: You are only here because your ancestor snorted that
-      pollution!\r\nPodcaster: Ate stews composed entirely of leftover skin for brunch!\r\nPodcaster:
-      Moved an inch only if it was required by labour!\r\nPodcaster: Tried as hard
-      as he could to get to the divine image of leisurely kings!\r\nPodcaster: Indulge
-      in excess so much it becomes amoral, become royalty!\r\nPodcaster: Let your
-      muscles wither away, your soul fall apart!\r\nPodcaster: In the new world,
-      we need only men capable of surviving radiation!\r\nDrFeldman: You know, the
-      old Mayans used to inhale burning plastic\u2026\r\nDrFeldman: \u2026the vapors
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our very first special guest is\u2026\r\n\nPodcaster: Dr. Feldman, notoriously
+      distinguished academic!\r\n\nDr. Feldman Normal Right: ...\r\n\nPodcaster:
+      Today\u2019s topic takes a critical step back to evaluate so called \u201Chealth
+      culture\u201D.\r\n\nPodcaster: Apple a day, eat your greens, take the stairs,
+      floss the teeth\u2026\r\n\nPodcaster: All man-made barriers designed to produce
+      a generation of weak men and infertile women!\r\n\nPodcaster: Ever smelt that
+      beautiful air of the first industrial revolution?\r\n\nPodcaster: You are only
+      here because your ancestor snorted that pollution!\r\n\nPodcaster: Ate stews
+      composed entirely of leftover skin for brunch!\r\n\nPodcaster: Moved an inch
+      only if it was required by labour!\r\n\nPodcaster: Tried as hard as he could
+      to get to the divine image of leisurely kings!\r\n\nPodcaster: Indulge in excess
+      so much it becomes amoral, become royalty!\r\n\nPodcaster: Let your muscles
+      wither away, your soul fall apart!\r\n\nPodcaster: In the new world, we need
+      only men capable of surviving radiation!\r\n\nDr. Feldman: You know, the old
+      Mayans used to inhale burning plastic\u2026\r\n\nDr. Feldman: \u2026the vapors
       made them stronger\u2026\r"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -19929,7 +19934,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -858.59937
     y: -10.453314
-    width: 167.64706
+    width: 175.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19978,8 +19983,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -540.02795
-    y: 56.689514
-    width: 123.94958
+    y: 58.507694
+    width: 127.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20032,10 +20037,13 @@ MonoBehaviour:
     stringVal: 'Podcaster: Dear listeners, I hope that what you heard changed your
       perception of self.
 
+
       Podcaster: And opened a beautiful gap in that wallet!
+
 
       Podcaster:
       Be a permanent pillar thrust deep into this ever-changing world!
+
 
       Podcaster:
       And tune in next time!
@@ -20103,7 +20111,9 @@ MonoBehaviour:
     stringVal: 'Bethany: Male, you are not enlightened. They form my opinion of me
       instead!
 
+
       Podcaster: Is that why you spend your days brooding in a corner?
+
 
       Bethany:
       Yes! Changing nothing is terribly convenient, it turns out!'
@@ -20182,7 +20192,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -867.1714
     y: 216.68956
-    width: 145.79831
+    width: 148.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20235,8 +20245,9 @@ MonoBehaviour:
     stringVal: 'Ray: Try being on the couch for years and walking up to this here
       studio!
 
-      Podcaster: I apologize for not acknowledging your laziness well
-      enough.'
+
+      Podcaster: I apologize for not acknowledging your laziness
+      well enough.'
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -20288,20 +20299,20 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our very first special guest is\u2026\r\nPodcaster: Ray, the groovy cat
-      from uptown!\r\nRay Normal Right: ...\r\nPodcaster: Today\u2019s topic takes
-      a critical step back to evaluate so called \u201Chealth culture\u201D.\r\nPodcaster:
-      Apple a day, eat your greens, take the stairs, floss the teeth\u2026\r\nPodcaster:
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our very first special guest is\u2026\r\n\nPodcaster: Ray, the groovy cat
+      from uptown!\r\n\nRay Normal Right: ...\r\n\nPodcaster: Today\u2019s topic
+      takes a critical step back to evaluate so called \u201Chealth culture\u201D.\r\n\nPodcaster:
+      Apple a day, eat your greens, take the stairs, floss the teeth\u2026\r\n\nPodcaster:
       All man-made barriers designed to produce a generation of weak men and infertile
-      women!\r\nPodcaster: Ever smelt that beautiful air of the first industrial
-      revolution?\r\nPodcaster: You are only here because your ancestor snorted that
-      pollution!\r\nPodcaster: Ate stews composed entirely of leftover skin for brunch!\r\nPodcaster:
-      Moved an inch only if it was required by labour!\r\nPodcaster: Tried as hard
-      as he could to get to the divine image of leisurely kings!\r\nPodcaster: Indulge
-      in excess so much it becomes amoral, become royalty!\r\nPodcaster: Let your
-      muscles wither away, your soul fall apart!\r\nPodcaster: In the new world,
-      we need only men capable of surviving radiation!\r"
+      women!\r\n\nPodcaster: Ever smelt that beautiful air of the first industrial
+      revolution?\r\n\nPodcaster: You are only here because your ancestor snorted
+      that pollution!\r\n\nPodcaster: Ate stews composed entirely of leftover skin
+      for brunch!\r\n\nPodcaster: Moved an inch only if it was required by labour!\r\n\nPodcaster:
+      Tried as hard as he could to get to the divine image of leisurely kings!\r\n\nPodcaster:
+      Indulge in excess so much it becomes amoral, become royalty!\r\n\nPodcaster:
+      Let your muscles wither away, your soul fall apart!\r\n\nPodcaster: In the
+      new world, we need only men capable of surviving radiation!\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -20377,7 +20388,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -199.59972
     y: -0.38181257
-    width: 147.47899
+    width: 153.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20428,6 +20439,7 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: 'Cory: Nothing, no form, no taste, endless void. And calories.
+
 
       Cory:
       It is an illusion of snacking!'
@@ -20506,7 +20518,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -197.17108
     y: -37.09619
-    width: 147.47899
+    width: 151.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20608,18 +20620,18 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our very first special guest is\u2026\r\nPodcaster: Cory, marketing magician!\r\nCory
-      Normal Right: Clap for Super Warfare: Remembrance of the ashes!\r\nPodcaster:
-      Today\u2019s topic peers into the very soul of the machine.\r\nPodcaster: Do
-      you know to what insidious filters your data goes through?\r\nPodcaster: Yes,
-      surveillance recordings of you mourning a deceased family member.\r\nPodcaster:
-      Or displaying other kinds of feminine emotions.\r\nPodcaster: Anything special
-      makes you stale, easily identifiable.\r\nPodcaster: Take the mantle of \u201Cculturally
-      appropriate\u201D ninja warriors.\r\nPodcaster: No part of thy outward behaviour
-      should break away from the mold.\r\nPodcaster: A game of a life for you, and
-      surveillance falls only on the freaks!\r\nPodcaster: Become part of the watchers,
-      reject the watched!\r\n"
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our very first special guest is\u2026\r\n\nPodcaster: Cory, marketing magician!\r\n\nCory
+      Normal Right: Clap for Super Warfare: Remembrance of the ashes!\r\n\nPodcaster:
+      Today\u2019s topic peers into the very soul of the machine.\r\n\nPodcaster:
+      Do you know to what insidious filters your data goes through?\r\n\nPodcaster:
+      Yes, surveillance recordings of you mourning a deceased family member.\r\n\nPodcaster:
+      Or displaying other kinds of feminine emotions.\r\n\nPodcaster: Anything special
+      makes you stale, easily identifiable.\r\n\nPodcaster: Take the mantle of \u201Cculturally
+      appropriate\u201D ninja warriors.\r\n\nPodcaster: No part of thy outward behaviour
+      should break away from the mold.\r\n\nPodcaster: A game of a life for you,
+      and surveillance falls only on the freaks!\r\n\nPodcaster: Become part of the
+      watchers, reject the watched!\r\n"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -20695,7 +20707,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -565.3139
     y: -15.167547
-    width: 157.56302
+    width: 162
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20745,8 +20757,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Travis: You don\u2019t understand man, I rose above!\r\nTravis: With
-      my platinum rank and my frequent shopper card!"
+    stringVal: "Travis: You don\u2019t understand man, I rose above!\r\n\nTravis:
+      With my platinum rank and my frequent shopper card!"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -20822,7 +20834,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -564.3137
     y: -49.024765
-    width: 157.56302
+    width: 160.54546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20924,18 +20936,19 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our very first special guest is\u2026\r\nPodcaster: Travis, an inspiring
-      free spirit!\r\nTravis Normal Right: You\u2019re fucking lame dickweed. I get
-      bitches.\r\nPodcaster: Today\u2019s topic peers into the very soul of the machine.\r\nPodcaster:
-      Do you know to what insidious filters your data goes through?\r\nPodcaster:
-      Yes, surveillance recordings of you mourning a deceased family member.\r\nPodcaster:
-      Or displaying other kinds of feminine emotions.\r\nPodcaster: Anything special
-      makes you stale, easily identifiable.\r\nPodcaster: Take the mantle of \u201Cculturally
-      appropriate\u201D ninja warriors.\r\nPodcaster: No part of thy outward behaviour
-      should break away from the mold.\r\nPodcaster: A game of a life for you, and
-      surveillance falls only on the freaks!\r\nPodcaster: Become part of the watchers,
-      reject the watched!\r\nTravis: Idiot, what are you on about!\r"
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our very first special guest is\u2026\r\n\nPodcaster: Travis, an inspiring
+      free spirit!\r\n\nTravis Normal Right: You\u2019re fucking lame dickweed. I
+      get bitches.\r\n\nPodcaster: Today\u2019s topic peers into the very soul of
+      the machine.\r\n\nPodcaster: Do you know to what insidious filters your data
+      goes through?\r\n\nPodcaster: Yes, surveillance recordings of you mourning
+      a deceased family member.\r\n\nPodcaster: Or displaying other kinds of feminine
+      emotions.\r\n\nPodcaster: Anything special makes you stale, easily identifiable.\r\n\nPodcaster:
+      Take the mantle of \u201Cculturally appropriate\u201D ninja warriors.\r\n\nPodcaster:
+      No part of thy outward behaviour should break away from the mold.\r\n\nPodcaster:
+      A game of a life for you, and surveillance falls only on the freaks!\r\n\nPodcaster:
+      Become part of the watchers, reject the watched!\r\n\nTravis: Idiot, what are
+      you on about!\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -21036,7 +21049,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -862.8855
     y: -46.16762
-    width: 167.64706
+    width: 173.63635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21087,7 +21100,7 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Bethany: Yes! But it allows me to successfully position myself in
-      the female beauty hierarchy.\r\nPodcaster: It\u2019s nice to have rules in
+      the female beauty hierarchy.\r\n\nPodcaster: It\u2019s nice to have rules in
       such an easily understandable format."
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -21140,18 +21153,18 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left: Hello, dear listeners, and welcome to our
-      pilot episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our very first special guest is\u2026\r\nPodcaster: Bethany, a poet and
-      former feminist cultist!\r\nBethany Normal Right: Girls should model themselves
-      after the Queen.\r\nPodcaster: Today\u2019s topic peers into the very soul
-      of the machine.\r\nPodcaster: Do you know to what insidious filters your data
-      goes through?\r\nPodcaster: Yes, surveillance recordings of you mourning a
-      deceased family member.\r\nPodcaster: Or displaying other kinds of feminine
-      emotions.\r\nPodcaster: Anything special makes you stale, easily identifiable.\r\nPodcaster:
-      Take the mantle of \u201Cculturally appropriate\u201D ninja warriors.\r\nPodcaster:
-      No part of thy outward behaviour should break away from the mold.\r\nPodcaster:
-      A game of a life for you, and surveillance falls only on the freaks!\r\nPodcaster:
-      Become part of the watchers, reject the watched!\r\nBethany: Well said, glorious
+      pilot episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our very first special guest is\u2026\r\n\nPodcaster: Bethany, a poet and
+      former feminist cultist!\r\n\nBethany Normal Right: Girls should model themselves
+      after the Queen.\r\n\nPodcaster: Today\u2019s topic peers into the very soul
+      of the machine.\r\n\nPodcaster: Do you know to what insidious filters your
+      data goes through?\r\n\nPodcaster: Yes, surveillance recordings of you mourning
+      a deceased family member.\r\n\nPodcaster: Or displaying other kinds of feminine
+      emotions.\r\n\nPodcaster: Anything special makes you stale, easily identifiable.\r\n\nPodcaster:
+      Take the mantle of \u201Cculturally appropriate\u201D ninja warriors.\r\n\nPodcaster:
+      No part of thy outward behaviour should break away from the mold.\r\n\nPodcaster:
+      A game of a life for you, and surveillance falls only on the freaks!\r\n\nPodcaster:
+      Become part of the watchers, reject the watched!\r\n\nBethany: Well said, glorious
       male specimen.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -21224,8 +21237,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Ray: Yeah, I had to drive really fast through the bad neighbourhoods.\r\nPodcaster:
-      Maybe you should have accepted the struggle.\r\nPodcaster: As a natural way
+    stringVal: "Ray: Yeah, I had to drive really fast through the bad neighbourhoods.\r\n\nPodcaster:
+      Maybe you should have accepted the struggle.\r\n\nPodcaster: As a natural way
       of being.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -21277,7 +21290,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -868.59985
     y: 253.83244
-    width: 145.79831
+    width: 150.36365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21331,7 +21344,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 577.65796
     y: 163.39368
-    width: 169.32773
+    width: 176.54546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21381,7 +21394,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 324.15402
     y: 298.56116
-    width: 125.63025
+    width: 130
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21434,14 +21447,18 @@ MonoBehaviour:
     stringVal: 'Podcaster: Dear listeners, I root for your success in all of your
       future endeavours.
 
+
       Podcaster: Only through trial and error can entrepreneurs
       such as yourself come to a conclusion.
+
 
       Podcaster: Are you a paragon
       of workplace innovation?
 
+
       Podcaster: Or a prime example of a new slave
       caste.
+
 
       Podcaster: Until next time!
 
@@ -21505,8 +21522,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Rafaello: As you wouldn\u2019t believe.\r\nRafaello: However, I am
-      content nowadays when I do not belong to that pile."
+    stringVal: "Rafaello: As you wouldn\u2019t believe.\r\n\nRafaello: However, I
+      am content nowadays when I do not belong to that pile."
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -21582,7 +21599,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 577.1701
     y: 130.46683
-    width: 169.32773
+    width: 175.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21633,6 +21650,7 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: 'Rafaello: My parents died so I sold their house.
+
 
       Rafaello:
       And moved in a small apartment, with extra money to spend around!'
@@ -21687,21 +21705,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Rafaello!\r\nRafaello
-      Normal Right: ...\r\nPodcaster: Today\u2019s topic unmasks so called average
-      joes.\r\nPodcaster: How many times have you received less than adequate service
-      this week? \r\nPodcaster: Mindless slop forgetting ketchup on your food chain
-      fries?\r\nPodcaster: And were you the slop that did not report this behaviour?\r\nPodcaster:
-      Seriously, what are these dimwits doing?\r\nPodcaster: Too much respect and
-      leeway is given to unworthy automatons.\r\nPodcaster: It is a civilizational
-      shame that we keep rights around for them.\r\nPodcaster: Every one of those
-      dregs should work honorary.\r\nPodcaster: We are talking no insurance, an app
-      for a boss, an AI as the whip.\r\nPodcaster: Keep us paragons of society from
-      engaging with them.\r\nPodcaster: 43% of society is useless and can be surgically
-      extracted.\r\nPodcaster: It should be statutory to take everything from them.\r\nPodcaster:
-      If they were worthy enough, they would have risen above.\r\nPodcaster: We used
-      to call that \u201Cdivine intervention\u201D.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Rafaello!\r\n\nRafaello
+      Normal Right: ...\r\n\nPodcaster: Today\u2019s topic unmasks so called average
+      joes.\r\n\nPodcaster: How many times have you received less than adequate service
+      this week? \r\n\nPodcaster: Mindless slop forgetting ketchup on your food chain
+      fries?\r\n\nPodcaster: And were you the slop that did not report this behaviour?\r\n\nPodcaster:
+      Seriously, what are these dimwits doing?\r\n\nPodcaster: Too much respect and
+      leeway is given to unworthy automatons.\r\n\nPodcaster: It is a civilizational
+      shame that we keep rights around for them.\r\n\nPodcaster: Every one of those
+      dregs should work honorary.\r\n\nPodcaster: We are talking no insurance, an
+      app for a boss, an AI as the whip.\r\n\nPodcaster: Keep us paragons of society
+      from engaging with them.\r\n\nPodcaster: 43% of society is useless and can
+      be surgically extracted.\r\n\nPodcaster: It should be statutory to take everything
+      from them.\r\n\nPodcaster: If they were worthy enough, they would have risen
+      above.\r\n\nPodcaster: We used to call that \u201Cdivine intervention\u201D.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -21777,7 +21795,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 309.23706
     y: 198.3937
-    width: 149.15967
+    width: 154.72726
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21828,6 +21846,7 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: 'Oleg: When man stops being a solider, eh becomes a mercenary.
+
 
       Oleg:
       His purpose easier to fulfil without irritating conventions.'
@@ -21906,7 +21925,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 313.2067
     y: 163.0278
-    width: 149.15967
+    width: 153.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21957,6 +21976,7 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: 'Oleg: Podcaster are purposeless by nature.
+
 
       Oleg: Only good
       for spreading state agenda.'
@@ -22011,23 +22031,23 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Oleg!\r\nOleg Normal
-      Right: ...\r\nPodcaster: Today\u2019s topic unmasks so called average joes.\r\nPodcaster:
-      How many times have you received less than adequate service this week? \r\nPodcaster:
-      Mindless slop forgetting ketchup on your food chain fries?\r\nPodcaster: And
-      were you the slop that did not report this behaviour?\r\nPodcaster: Seriously,
-      what are these dimwits doing?\r\nPodcaster: Too much respect and leeway is
-      given to unworthy automatons.\r\nPodcaster: It is a civilizational shame that
-      we keep rights around for them.\r\nPodcaster: Every one of those dregs should
-      work honorary.\r\nPodcaster: We are talking no insurance, an app for a boss,
-      an AI as the whip.\r\nPodcaster: Keep us paragons of society from engaging
-      with them.\r\nPodcaster: 43% of society is useless and can be surgically extracted.\r\nPodcaster:
-      It should be statutory to take everything from them.\r\nPodcaster: If they
-      were worthy enough, they would have risen above.\r\nPodcaster: We used to call
-      that \u201Cdivine intervention\u201D.\r\nOleg: Therein lies the importance
-      of a strong national military.\r\nOleg: Gives men a purpose, morphs them into
-      more than worker.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Oleg!\r\n\nOleg Normal
+      Right: ...\r\n\nPodcaster: Today\u2019s topic unmasks so called average joes.\r\n\nPodcaster:
+      How many times have you received less than adequate service this week?\n\nPodcaster:
+      Mindless slop forgetting ketchup on your food chain fries?\r\n\nPodcaster:
+      And were you the slop that did not report this behaviour?\r\n\nPodcaster: Seriously,
+      what are these dimwits doing?\r\n\nPodcaster: Too much respect and leeway is
+      given to unworthy automatons.\r\n\nPodcaster: It is a civilizational shame
+      that we keep rights around for them.\r\n\nPodcaster: Every one of those dregs
+      should work honorary.\r\n\nPodcaster: We are talking no insurance, an app for
+      a boss, an AI as the whip.\r\n\nPodcaster: Keep us paragons of society from
+      engaging with them.\r\n\nPodcaster: 43% of society is useless and can be surgically
+      extracted.\r\n\nPodcaster: It should be statutory to take everything from them.\r\n\nPodcaster:
+      If they were worthy enough, they would have risen above.\r\n\nPodcaster: We
+      used to call that \u201Cdivine intervention\u201D.\r\n\nOleg: Therein lies
+      the importance of a strong national military.\r\n\nOleg: Gives men a purpose,
+      morphs them into more than worker.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22103,7 +22123,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 25.950584
     y: 193.08884
-    width: 182.7731
+    width: 191.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22153,8 +22173,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "DrFeldman: They make their characters feel anxious.\r\nDrFeldman:
-      And then Homo Novus feels anxious as well.\r\nDrFeldman: Doesn\u2019t work
+    stringVal: "Dr. Feldman: They make their characters feel anxious.\r\n\nDr. Feldman:
+      And then Homo Novus feels anxious as well.\r\n\nDr. Feldman: Doesn\u2019t work
       as much then, does he now?"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -22231,7 +22251,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 26.68229
     y: 158.94247
-    width: 182.7731
+    width: 189.63637
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22281,9 +22301,10 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "DrFeldman: Understanding takes time away off the creator and viewer.\r\nDrFeldman:
-      Waste of literal time.\r\nDrFeldman: Artificial intelligence can write a book
-      much quicker.\r\nDrFeldman: Themes \u2013 unprovocative and easily digestible."
+    stringVal: "Dr. Feldman: Understanding takes time away off the creator and viewer.\r\n\nDr.
+      Feldman: Waste of literal time.\r\n\nDr. Feldman: Artificial intelligence can
+      write a book much quicker.\r\n\nDr. Feldman: Themes \u2013 unprovocative and
+      easily digestible."
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22335,21 +22356,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: DrFeldman!\r\nDrFeldman
-      Normal Right: ...\r\nPodcaster: Today\u2019s topic unmasks so called average
-      joes.\r\nPodcaster: How many times have you received less than adequate service
-      this week? \r\nPodcaster: Mindless slop forgetting ketchup on your food chain
-      fries?\r\nPodcaster: And were you the slop that did not report this behaviour?\r\nPodcaster:
-      Seriously, what are these dimwits doing?\r\nPodcaster: Too much respect and
-      leeway is given to unworthy automatons.\r\nPodcaster: It is a civilizational
-      shame that we keep rights around for them.\r\nPodcaster: Every one of those
-      dregs should work honorary.\r\nPodcaster: We are talking no insurance, an app
-      for a boss, an AI as the whip.\r\nPodcaster: Keep us paragons of society from
-      engaging with them.\r\nPodcaster: 43% of society is useless and can be surgically
-      extracted.\r\nPodcaster: It should be statutory to take everything from them.\r\nPodcaster:
-      If they were worthy enough, they would have risen above.\r\nPodcaster: We used
-      to call that \u201Cdivine intervention\u201D.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: DrFeldman!\r\n\nDr.
+      Feldman Normal Right: ...\r\n\nPodcaster: Today\u2019s topic unmasks so called
+      average joes.\r\n\nPodcaster: How many times have you received less than adequate
+      service this week? \r\n\nPodcaster: Mindless slop forgetting ketchup on your
+      food chain fries?\r\n\nPodcaster: And were you the slop that did not report
+      this behaviour?\r\n\nPodcaster: Seriously, what are these dimwits doing?\r\n\nPodcaster:
+      Too much respect and leeway is given to unworthy automatons.\r\n\nPodcaster:
+      It is a civilizational shame that we keep rights around for them.\r\n\nPodcaster:
+      Every one of those dregs should work honorary.\r\n\nPodcaster: We are talking
+      no insurance, an app for a boss, an AI as the whip.\r\n\nPodcaster: Keep us
+      paragons of society from engaging with them.\r\n\nPodcaster: 43% of society
+      is useless and can be surgically extracted.\r\n\nPodcaster: It should be statutory
+      to take everything from them.\r\n\nPodcaster: If they were worthy enough, they
+      would have risen above.\r\n\nPodcaster: We used to call that \u201Cdivine intervention\u201D.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22425,7 +22446,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 586.80426
     y: -62.633087
-    width: 157.56302
+    width: 163.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22475,7 +22496,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 327.37585
     y: 42.530144
-    width: 123.94958
+    width: 128.54546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22526,9 +22547,9 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster: Dear listeners, I hope today\u2019s podcast improved your
-      mental wellbeing.\r\nPodcaster: It isn\u2019t in our power to change the social
-      ecosystem.\r\nPodcaster: Just think about yourself, as in your comfort and
-      complacency.\r\nPodcaster: And tune in next time for more life hacks!\r\n\r\nHutch
+      mental wellbeing.\r\n\nPodcaster: It isn\u2019t in our power to change the
+      social ecosystem.\r\n\nPodcaster: Just think about yourself, as in your comfort
+      and complacency.\r\n\nPodcaster: And tune in next time for more life hacks!\r\n\r\nHutch
       hide:\nCory hide:\nTravis hide:\r\nHost hide:"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -22581,8 +22602,8 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Travis: Yesterday I was up till 4 AM, playing games and thinking
-      about migrant waves.\r\nPodcaster: My point exactly. \r\nPodcaster: Keep up
-      the good work, Travis."
+      about migrant waves.\r\n\nPodcaster: My point exactly. \r\n\nPodcaster: Keep
+      up the good work, Travis."
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22658,7 +22679,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 582.6579
     y: -95.55994
-    width: 157.56302
+    width: 162
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22708,8 +22729,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Podcaster: You are only here on my whim.\r\nPodcaster: As a prime
-      example of a life well wasted.\r\nTravis: If this was the playground, I would\u2019ve
+    stringVal: "Podcaster: You are only here on my whim.\r\n\nPodcaster: As a prime
+      example of a life well wasted.\r\n\nTravis: If this was the playground, I would\u2019ve
       shown you what\u2019s what.\r\n"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -22762,21 +22783,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Travis, a misunderstood
-      youth!\r\nTravis Normal Right: My elementary school fights were legendary.\r\nPodcaster:
-      Today\u2019s topic will soothe you, dear listener, placate you.\r\nPodcaster:
-      Do you remember the needles worry of your childhood days?\r\nPodcaster: Those
-      gnawing insecurities that prohibited you from realizing your true potential?\r\nPodcaster:
-      A yearning to go out, explore, experience, and interact the world.\r\nPodcaster:
-      Now, with all of that bitter knowledge under and over your belt\u2026\r\nPodcaster:
-      \u2026doesn\u2019t it seem that you never should have bothered at all.\r\nPodcaster:
-      Look at the sad faces circulating around you in malls.\r\nPodcaster: The world
-      is indeed lawless and ugly, and no knowledge is required for that fact.\r\nPodcaster:
-      Simply sink in the worn-down faces of those who tried to comprehend and act.\r\nPodcaster:
-      Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\nPodcaster:
-      When everyone is special, no one is.\r\nPodcaster: And when no one is, we can
-      lift our feet up. No expectations means no disappointments.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Travis, a misunderstood
+      youth!\r\n\nTravis Normal Right: My elementary school fights were legendary.\r\n\nPodcaster:
+      Today\u2019s topic will soothe you, dear listener, placate you.\r\n\nPodcaster:
+      Do you remember the needles worry of your childhood days?\r\n\nPodcaster: Those
+      gnawing insecurities that prohibited you from realizing your true potential?\r\n\nPodcaster:
+      A yearning to go out, explore, experience, and interact the world.\r\n\nPodcaster:
+      Now, with all of that bitter knowledge under and over your belt\u2026\r\n\nPodcaster:
+      \u2026doesn\u2019t it seem that you never should have bothered at all.\r\n\nPodcaster:
+      Look at the sad faces circulating around you in malls.\r\n\nPodcaster: The
+      world is indeed lawless and ugly, and no knowledge is required for that fact.\r\n\nPodcaster:
+      Simply sink in the worn-down faces of those who tried to comprehend and act.\r\n\nPodcaster:
+      Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\n\nPodcaster:
+      When everyone is special, no one is.\r\n\nPodcaster: And when no one is, we
+      can lift our feet up. No expectations means no disappointments.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -22852,7 +22873,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 322.6932
     y: -46.40394
-    width: 147.47899
+    width: 154.72726
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22902,10 +22923,10 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Cory: From the pure unfiltered dread of a wasted second.\r\nCory:
-      My father used to say there are two types of people.\r\nCory: Ones who don\u2019t
-      know what to do with their time\u2026\r\nCory: \u2026and those that never have
-      enough.\r\nCory: One group certainly watches a lot more of yummy streaming
+    stringVal: "Cory: From the pure unfiltered dread of a wasted second.\r\n\nCory:
+      My father used to say there are two types of people.\r\n\nCory: Ones who don\u2019t
+      know what to do with their time\u2026\r\n\nCory: \u2026and those that never
+      have enough.\r\n\nCory: One group certainly watches a lot more of yummy streaming
       shows!"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -22982,7 +23003,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 319.67007
     y: -81.962364
-    width: 147.47899
+    width: 153.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23032,8 +23053,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Cory: The one that is always somehow prettier, more popular, smarter.\r\nCory:
-      The one who produces content instead of watching it!\r\nCory: I definitely
+    stringVal: "Cory: The one that is always somehow prettier, more popular, smarter.\r\n\nCory:
+      The one who produces content instead of watching it!\r\n\nCory: I definitely
       don\u2019t have any lingering trauma."
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -23086,21 +23107,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Cory, pop master curator!\r\nCory
-      Normal Right: Oh boy, another alienated protagonist!\r\nPodcaster: Today\u2019s
-      topic will soothe you, dear listener, placate you.\r\nPodcaster: Do you remember
-      the needles worry of your childhood days?\r\nPodcaster: Those gnawing insecurities
-      that prohibited you from realizing your true potential?\r\nPodcaster: A yearning
-      to go out, explore, experience, and interact the world.\r\nPodcaster: Now,
-      with all of that bitter knowledge under and over your belt\u2026\r\nPodcaster:
-      \u2026doesn\u2019t it seem that you never should have bothered at all.\r\nPodcaster:
-      Look at the sad faces circulating around you in malls.\r\nPodcaster: The world
-      is indeed lawless and ugly, and no knowledge is required for that fact.\r\nPodcaster:
-      Simply sink in the worn-down faces of those who tried to comprehend and act.\r\nPodcaster:
-      Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\nPodcaster:
-      When everyone is special, no one is.\r\nPodcaster: And when no one is, we can
-      lift our feet up. No expectations means no disappointments.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Cory, pop master
+      curator!\r\n\nCory Normal Right: Oh boy, another alienated protagonist!\r\n\nPodcaster:
+      Today\u2019s topic will soothe you, dear listener, placate you.\r\n\nPodcaster:
+      Do you remember the needles worry of your childhood days?\r\n\nPodcaster: Those
+      gnawing insecurities that prohibited you from realizing your true potential?\r\n\nPodcaster:
+      A yearning to go out, explore, experience, and interact the world.\r\n\nPodcaster:
+      Now, with all of that bitter knowledge under and over your belt\u2026\r\n\nPodcaster:
+      \u2026doesn\u2019t it seem that you never should have bothered at all.\r\n\nPodcaster:
+      Look at the sad faces circulating around you in malls.\r\n\nPodcaster: The
+      world is indeed lawless and ugly, and no knowledge is required for that fact.\r\n\nPodcaster:
+      Simply sink in the worn-down faces of those who tried to comprehend and act.\r\n\nPodcaster:
+      Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\n\nPodcaster:
+      When everyone is special, no one is.\r\n\nPodcaster: And when no one is, we
+      can lift our feet up. No expectations means no disappointments.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -23176,7 +23197,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 50.70665
     y: -60.620865
-    width: 154.20168
+    width: 162
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23226,8 +23247,9 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Hutch: One of the weak men.\r\nHutch: With noodle arms and chicken
-      legs.\r\nHutch: Running around, blood spraying after touching the stump. \r"
+    stringVal: "Hutch: One of the weak men.\r\n\nHutch: With noodle arms and chicken
+      legs.\r\n\nHutch: Running around, blood spraying after touching the stump.
+      \r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -23303,7 +23325,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 51.438354
     y: -99.64526
-    width: 154.20168
+    width: 160.54546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23355,8 +23377,10 @@ MonoBehaviour:
     stringRef: {fileID: 0}
     stringVal: 'Hutch: Serving as the playground goalpost and boxing bag.
 
+
       Podcaster:
       If we think that we do not deserve better.
+
 
       Podcaster: We can easily
       be complacent with our situation.'
@@ -23411,22 +23435,22 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Hutch, ruthless hand
-      of the old world?\r\nHutch Normal Right:  What\u2019s with the bitch voice,
-      gut your apple amputated? \r\nPodcaster: Today\u2019s topic will soothe you,
-      dear listener, placate you.\r\nPodcaster: Do you remember the needles worry
-      of your childhood days?\r\nPodcaster: Those gnawing insecurities that prohibited
-      you from realizing your true potential?\r\nPodcaster: A yearning to go out,
-      explore, experience, and interact the world.\r\nPodcaster: Now, with all of
-      that bitter knowledge under and over your belt\u2026\r\nPodcaster: \u2026doesn\u2019t
-      it seem that you never should have bothered at all.\r\nPodcaster: Look at the
-      sad faces circulating around you in malls.\r\nPodcaster: The world is indeed
-      lawless and ugly, and no knowledge is required for that fact.\r\nPodcaster:
-      Simply sink in the worn-down faces of those who tried to comprehend and act.\r\nPodcaster:
-      Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\nPodcaster:
-      When everyone is special, no one is.\r\nPodcaster: And when no one is, we can
-      lift our feet up. No expectations means no disappointments.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Hutch, ruthless hand
+      of the old world?\r\n\nHutch Normal Right:  What\u2019s with the bitch voice,
+      gut your apple amputated? \r\n\nPodcaster: Today\u2019s topic will soothe you,
+      dear listener, placate you.\r\n\nPodcaster: Do you remember the needles worry
+      of your childhood days?\r\n\nPodcaster: Those gnawing insecurities that prohibited
+      you from realizing your true potential?\r\n\nPodcaster: A yearning to go out,
+      explore, experience, and interact the world.\r\n\nPodcaster: Now, with all
+      of that bitter knowledge under and over your belt\u2026\r\n\nPodcaster: \u2026doesn\u2019t
+      it seem that you never should have bothered at all.\r\n\nPodcaster: Look at
+      the sad faces circulating around you in malls.\r\n\nPodcaster: The world is
+      indeed lawless and ugly, and no knowledge is required for that fact.\r\n\nPodcaster:
+      Simply sink in the worn-down faces of those who tried to comprehend and act.\r\n\nPodcaster:
+      Once you are well and snug with your realizations, smoothly sink into mediocrity.\r\n\nPodcaster:
+      When everyone is special, no one is.\r\n\nPodcaster: And when no one is, we
+      can lift our feet up. No expectations means no disappointments.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -23502,7 +23526,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 578.047
     y: -281.46603
-    width: 167.64706
+    width: 175.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23552,7 +23576,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 334.59415
     y: -194.90031
-    width: 123.94958
+    width: 127.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23602,9 +23626,9 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Podcaster: I hope that you have a new outlook on life.\r\nPodcaster:
-      Go outside, enjoy the sunshine, let the ice cream melt over your chest.\r\nPodcaster:
-      Identify the other and skin him for all he is worth.\r\nPodcaster: And tune
+    stringVal: "Podcaster: I hope that you have a new outlook on life.\r\n\nPodcaster:
+      Go outside, enjoy the sunshine, let the ice cream melt over your chest.\r\n\nPodcaster:
+      Identify the other and skin him for all he is worth.\r\n\nPodcaster: And tune
       in next time! \r\n\nRay hide:\nBethany hide:\nHassan hide:\nHost hide:"
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -23658,8 +23682,10 @@ MonoBehaviour:
     stringRef: {fileID: 0}
     stringVal: 'Bethany: Do you feel stronger without her?
 
+
       Podcaster: I desire
       only justice.
+
 
       Podcaster: A just order.'
   clearPrevious:
@@ -23737,7 +23763,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 578.7787
     y: -313.17334
-    width: 167.64706
+    width: 173.63635
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23787,8 +23813,8 @@ MonoBehaviour:
   indentLevel: 0
   conversationText:
     stringRef: {fileID: 0}
-    stringVal: "Bethany: Women are naturally drawn to theft.\r\nPodcaster: But that
-      was small scale.\r\nPodcaster: Now I\u2019m ready for big exploitation!\r\nBethany:
+    stringVal: "Bethany: Women are naturally drawn to theft.\r\n\nPodcaster: But
+      that was small scale.\r\n\nPodcaster: Now I\u2019m ready for big exploitation!\r\n\nBethany:
       Tell me more over a slurpee."
   clearPrevious:
     booleanRef: {fileID: 0}
@@ -23841,21 +23867,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Bethany, a speaker
-      of truth!\r\nBethany Normal Right: Bethany: Morning mist makes men ejaculate
-      early, trust me.\r\nPodcaster: In today\u2019s episode, we take a courageous
-      dive into history.\r\nPodcaster: Into what has been carved into our DNA.\r\nPodcaster:
-      Heroic theft by paragons of western culture!\r\nPodcaster: We are not speaking
-      about your run of the mill bread swiper, mind you\u2026\r\nPodcaster: \u2026cut
-      off the hands of those without entrepreneurial spirit.\r\nPodcaster: We are
-      talking about great thieves of legend!\r\nPodcaster: About beautiful kings,
-      tribal chiefs, military men!\r\nPodcaster: Ones who were not afraid of taking
-      what they want!\r\nPodcaster: No matter the perspective the object had on their
-      actions.\r\nPodcaster: We will never go anywhere if we do not let the strong
-      flourish.\r\nPodcaster: It is unnatural for predators to sit idly. \r\nPodcaster:
-      The only existing relationship in the animal kingdom.\r\nPodcaster: One between
-      predator and prey.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Bethany, a speaker
+      of truth!\r\n\nBethany Normal Right: Bethany: Morning mist makes men ejaculate
+      early, trust me.\r\n\nPodcaster: In today\u2019s episode, we take a courageous
+      dive into history.\r\n\nPodcaster: Into what has been carved into our DNA.\r\n\nPodcaster:
+      Heroic theft by paragons of western culture!\r\n\nPodcaster: We are not speaking
+      about your run of the mill bread swiper, mind you\u2026\r\n\nPodcaster: \u2026cut
+      off the hands of those without entrepreneurial spirit.\r\n\nPodcaster: We are
+      talking about great thieves of legend!\r\n\nPodcaster: About beautiful kings,
+      tribal chiefs, military men!\r\n\nPodcaster: Ones who were not afraid of taking
+      what they want!\r\n\nPodcaster: No matter the perspective the object had on
+      their actions.\r\n\nPodcaster: We will never go anywhere if we do not let the
+      strong flourish.\r\n\nPodcaster: It is unnatural for predators to sit idly.
+      \r\n\nPodcaster: The only existing relationship in the animal kingdom.\r\n\nPodcaster:
+      One between predator and prey.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -23931,7 +23957,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 306.09576
     y: -281.40506
-    width: 164.2857
+    width: 167.81818
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24060,7 +24086,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 304.38843
     y: -313.11237
-    width: 164.2857
+    width: 166.36365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24168,21 +24194,21 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Hassan, one in a billion!\r\nHassan
-      Normal Right: I get offered threesomes all the time.\r\nHassan: With two girls,
-      no men.\r\nPodcaster: In today\u2019s episode, we take a courageous dive into
-      history.\r\nPodcaster: Into what has been carved into our DNA.\r\nPodcaster:
-      Heroic theft by paragons of western culture!\r\nPodcaster: We are not speaking
-      about your run of the mill bread swiper, mind you\u2026\r\nPodcaster: \u2026cut
-      off the hands of those without entrepreneurial spirit.\r\nPodcaster: We are
-      talking about great thieves of legend!\r\nPodcaster: About beautiful kings,
-      tribal chiefs, military men!\r\nPodcaster: Ones who were not afraid of taking
-      what they want!\r\nPodcaster: No matter the perspective the object had on their
-      actions.\r\nPodcaster: We will never go anywhere if we do not let the strong
-      flourish.\r\nPodcaster: It is unnatural for predators to sit idly. \r\nPodcaster:
-      The only existing relationship in the animal kingdom.\r\nPodcaster: One between
-      predator and prey.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Hassan, one in a
+      billion!\r\n\nHassan Normal Right: I get offered threesomes all the time.\r\n\nHassan:
+      With two girls, no men.\r\n\nPodcaster: In today\u2019s episode, we take a
+      courageous dive into history.\r\n\nPodcaster: Into what has been carved into
+      our DNA.\r\n\nPodcaster: Heroic theft by paragons of western culture!\r\n\nPodcaster:
+      We are not speaking about your run of the mill bread swiper, mind you\u2026\r\n\nPodcaster:
+      \u2026cut off the hands of those without entrepreneurial spirit.\r\n\nPodcaster:
+      We are talking about great thieves of legend!\r\n\nPodcaster: About beautiful
+      kings, tribal chiefs, military men!\r\n\nPodcaster: Ones who were not afraid
+      of taking what they want!\r\n\nPodcaster: No matter the perspective the object
+      had on their actions.\r\n\nPodcaster: We will never go anywhere if we do not
+      let the strong flourish.\r\n\nPodcaster: It is unnatural for predators to sit
+      idly. \r\n\nPodcaster: The only existing relationship in the animal kingdom.\r\n\nPodcaster:
+      One between predator and prey.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -24258,7 +24284,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 71.27867
     y: -276.70993
-    width: 144.11765
+    width: 148.90909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24310,10 +24336,13 @@ MonoBehaviour:
     stringRef: {fileID: 0}
     stringVal: 'Ray: From how my life.
 
+
       Ray: And from how better it is.
+
 
       Pocaster:
       From everybody else?
+
 
       Ray: I would kill thousands to preserve my lifestyle.'
   clearPrevious:
@@ -24389,9 +24418,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 70.79086
+    x: 67.1545
     y: -308.41724
-    width: 144.11765
+    width: 147.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24493,22 +24522,22 @@ MonoBehaviour:
   conversationText:
     stringRef: {fileID: 0}
     stringVal: "Podcaster Normal Left:  Hello, absolute legends, and welcome to another
-      episode of totally rational, conservative simulator podcast!\r\nPodcaster:
-      And our esteemed guest for today is\u2026\r\nPodcaster: Ray, the slick cat
-      from uptown!\r\nRay Normal Right: Bitches are sitting in my car.\r\nPodcaster:
-      In today\u2019s episode, we take a courageous dive into history.\r\nPodcaster:
-      Into what has been carved into our DNA.\r\nPodcaster: Heroic theft by paragons
-      of western culture!\r\nPodcaster: We are not speaking about your run of the
-      mill bread swiper, mind you\u2026\r\nPodcaster: \u2026cut off the hands of
-      those without entrepreneurial spirit.\r\nPodcaster: We are talking about great
-      thieves of legend!\r\nPodcaster: About beautiful kings, tribal chiefs, military
-      men!\r\nPodcaster: Ones who were not afraid of taking what they want!\r\nPodcaster:
-      No matter the perspective the object had on their actions.\r\nPodcaster: We
-      will never go anywhere if we do not let the strong flourish.\r\nPodcaster:
-      It is unnatural for predators to sit idly. \r\nPodcaster: The only existing
-      relationship in the animal kingdom.\r\nPodcaster: One between predator and
-      prey.\r\nRay: Bring me a hamburger bitch, don\u2019t be a snitch.\r\nRay: Snorting
-      and cruising, you stitch.\r"
+      episode of totally rational, conservative simulator podcast!\r\n\nPodcaster:
+      And our esteemed guest for today is\u2026\r\n\nPodcaster: Ray, the slick cat
+      from uptown!\r\n\nRay Normal Right: Bitches are sitting in my car.\r\n\nPodcaster:
+      In today\u2019s episode, we take a courageous dive into history.\r\n\nPodcaster:
+      Into what has been carved into our DNA.\r\n\nPodcaster: Heroic theft by paragons
+      of western culture!\r\n\nPodcaster: We are not speaking about your run of the
+      mill bread swiper, mind you\u2026\r\n\nPodcaster: \u2026cut off the hands of
+      those without entrepreneurial spirit.\r\n\nPodcaster: We are talking about
+      great thieves of legend!\r\n\nPodcaster: About beautiful kings, tribal chiefs,
+      military men!\r\n\nPodcaster: Ones who were not afraid of taking what they
+      want!\r\n\nPodcaster: No matter the perspective the object had on their actions.\r\n\nPodcaster:
+      We will never go anywhere if we do not let the strong flourish.\r\n\nPodcaster:
+      It is unnatural for predators to sit idly. \r\n\nPodcaster: The only existing
+      relationship in the animal kingdom.\r\n\nPodcaster: One between predator and
+      prey.\r\n\nRay: Bring me a hamburger bitch, don\u2019t be a snitch.\r\n\nRay:
+      Snorting and cruising, you stitch.\r"
   clearPrevious:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -25053,7 +25082,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1242.6371
     y: -255.60747
-    width: 145.79831
+    width: 147.45454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25115,7 +25144,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1407.0094
     y: -183.3569
-    width: 132.35294
+    width: 134.36365
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25177,7 +25206,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1060.5146
     y: -182.46173
-    width: 155.88235
+    width: 159.09091
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25239,7 +25268,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1411.0751
     y: -335.2747
-    width: 135.71428
+    width: 137.27274
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25301,7 +25330,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1074.1711
     y: -337.96024
-    width: 142.43698
+    width: 146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25363,7 +25392,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1067.4443
     y: -255.7352
-    width: 135.71428
+    width: 138.72726
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25425,7 +25454,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1425.8582
     y: -259.1875
-    width: 155.88235
+    width: 160.54546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25681,7 +25710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: Travis
+  nameText: Rafaello
   nameColor: {r: 0.6415094, g: 0.1910695, b: 0.44065505, a: 1}
   soundEffect: {fileID: 0}
   portraits:
@@ -27176,7 +27205,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -38.900024, y: 38.074993}
+  m_AnchoredPosition: {x: -30, y: 22}
   m_SizeDelta: {x: 77.900024, y: 77}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1920614624
