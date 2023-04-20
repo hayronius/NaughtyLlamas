@@ -2334,7 +2334,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 26}
+  m_AnchoredPosition: {x: 0, y: 1}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1201095735
@@ -3591,14 +3591,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Other credits
 
+    Fungus plugin
+
     Fonts @ 1001freefonts.com
 
-    Kevong Gabiontrial
+    Kevong
+    Gabiontrial
 
     Fruinky
 
-    Icons
-    South St
+    Icons South St
 
 '
   m_isRightToLeft: 0
