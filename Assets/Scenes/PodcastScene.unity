@@ -1196,7 +1196,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 133.45454
     y: 70.36364
-    width: 184.69385
+    width: 181.42854
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14329,7 +14329,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1013, y: -1203}
+  m_AnchoredPosition: {x: -804, y: -1203}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &415940300
@@ -25498,7 +25498,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 1013, y: -1203}
+  m_AnchoredPosition: {x: 804, y: -1203}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1002616896
@@ -25648,7 +25648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 325367961}
+  selectedFlowchart: {fileID: 935292086}
 --- !u!4 &1096910280
 Transform:
   m_ObjectHideFlags: 1
